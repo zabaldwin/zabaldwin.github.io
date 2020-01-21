@@ -1,6 +1,3 @@
-> “When I was young, I observed that nine out of ten things I did were failures. So I did ten times more work.”
-– George Bernard Shaw
-
 ---
 permalink: /
 title: "About me"
@@ -10,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+> “When I was young, I observed that nine out of ten things I did were failures. So I did ten times more work.”
+  – George Bernard Shaw
 
 I grew up in the foothills of the Appalachian Mountains in an small town called Abgindon. It is near the boarder of Virgina and Tennessee.
 
