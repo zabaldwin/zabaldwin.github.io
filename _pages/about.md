@@ -20,7 +20,7 @@ Current Research
 My area of research is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta'$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be illuminated as to allow for a better understanding of meson production mechanisms. 
 
 <p align="center">
-  <img src="https://github.com/zabaldwin/zabaldwin.github.io/blob/master/Screen%20Shot%202020-01-21%20at%2012.05.26%20AM.png" alt="Photo" style="width: 250px;"/> 
+  <img src="https://github.com/zabaldwin/zabaldwin.github.io/blob/master/Screen%20Shot%202020-01-21%20at%2012.05.26%20AM.png" alt="Photo" /> 
 </p>
 <p align="center">
 Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
