@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My area of interest is searching for the existence of exotic hybrid mesons, particularly on the 𝜋^0 𝜂 and 𝜋^0 𝜂^′ systems. The interest in these two systems is due to the strong possibility of the presence of exotic 𝐽^𝑃𝐶   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be illuminated as to allow for a better understanding of meson production mechanisms. 
+My area of interest is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta^{'}$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be illuminated as to allow for a better understanding of meson production mechanisms. 
 
 
 A data-driven personal website
