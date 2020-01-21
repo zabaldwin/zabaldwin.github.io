@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.cmu.edu/physics/) at [Carnegie Mellon University](https://www.cmu.edu/) working on the [GlueX](https://en.wikipedia.org/wiki/GlueX) experiment at the  Thomas Jefferson National Accelerator Facility. My advisor is Professor [Curtis Meyer](https://www.cmu.edu/physics/people/faculty/meyer.html), spokesperson of GlueX.
+I grew up in the foothills of the Appalachian Mountains in an small town called Abgindon. It is near the boarder of Virgina and Tennessee.
+
+I am now a Ph.D. candidate in [Nuclear and Particle Physics](https://www.cmu.edu/physics/) at [Carnegie Mellon University](https://www.cmu.edu/) working on the [GlueX](https://en.wikipedia.org/wiki/GlueX) experiment at the  Thomas Jefferson National Accelerator Facility. My advisor is Professor [Curtis Meyer](https://www.cmu.edu/physics/people/faculty/meyer.html), spokesperson of GlueX.
 
 I recieved my Bachelor of Science degree from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics in 2019. I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an [Honors Thesis](https://scholarworks.wm.edu/honorstheses/1317/).
 
