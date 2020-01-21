@@ -1,3 +1,6 @@
+> “When I was young, I observed that nine out of ten things I did were failures. So I did ten times more work.”
+– George Bernard Shaw
+
 ---
 permalink: /
 title: "About me"
