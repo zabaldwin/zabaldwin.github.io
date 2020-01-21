@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae (PDF)](http://zabaldwin.github.io/files/Grad_CV.pdf) Updated: January 20, 2020
+[Curriculum Vitae (PDF)](http://zabaldwin.github.io/files/GradSchool_CV.pdf) Updated: January 20, 2020
 
 Education
 ======
