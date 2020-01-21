@@ -21,9 +21,8 @@ My area of research is searching for the existence of exotic hybrid mesons, part
 
 <p align="center">
   <img src="https://github.com/zabaldwin/zabaldwin.github.io/blob/master/Screen%20Shot%202020-01-21%20at%2012.05.26%20AM.png" alt="Photo" style="width: 350px;"/> 
-  <figcaption>{{ Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
- }}</figcaption>
 </p>
+Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
 
 Recent News (edited Jan 20, 2020)
 ======
