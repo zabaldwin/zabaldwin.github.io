@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [nuclear and particle physics](https://www.cmu.edu/physics/) at [Carnegie Mellon University](https://www.cmu.edu/). My advisor is Professor [Curtis Meyer](https://www.cmu.edu/physics/people/faculty/meyer.html).
+I am a Ph.D. candidate in [Nuclear and P{article Physics](https://www.cmu.edu/physics/) at [Carnegie Mellon University](https://www.cmu.edu/) working on the [GlueX](https://en.wikipedia.org/wiki/GlueX) experiment at the Thomas Jefferson National Accelerator. My advisor is Professor [Curtis Meyer](https://www.cmu.edu/physics/people/faculty/meyer.html), spokesperson of GlueX.
+
+I recieved my Bachelor of Science degree from [The College of William and Mary] with honors in Physics and Mathematics in 2019. I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on the [$Exclusice \pi^{0} production and Compton scattering at GlueX](https://scholarworks.wm.edu/honorstheses/1317/) 
 
 
 My area of interest is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be illuminated as to allow for a better understanding of meson production mechanisms. 
