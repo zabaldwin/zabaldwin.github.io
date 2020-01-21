@@ -10,7 +10,7 @@ redirect_from:
 
 I grew up in the foothills of the Appalachian Mountains in an small town called Abgindon. It is near the boarder of Virgina and Tennessee.
 
-<p align="left">
+<p align="right">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.05.57 AM.png" alt="Photo" style="width: 50px;"/> 
 </p>
 
