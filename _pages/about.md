@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [nuclear and particle physics] (https://www.cmu.edu/physics/) at [Carnegie Mellon University] (https://www.cmu.edu/). My advisor is Professor [Curtis Meyer] (https://www.cmu.edu/physics/people/faculty/meyer.html).
-
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/).
+*I am a Ph.D. candidate in [nuclear and particle physics] (https://www.cmu.edu/physics/) at [Carnegie Mellon University] (https://www.cmu.edu/). My advisor is Professor [Curtis Meyer] (https://www.cmu.edu/physics/people/faculty/meyer.html).
 
 
 My area of interest is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be illuminated as to allow for a better understanding of meson production mechanisms. 
