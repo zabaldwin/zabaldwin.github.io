@@ -45,7 +45,7 @@ My area of research is searching for the existence of exotic hybrid mesons, part
 <p align="center">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-04-18 at 6.20.17 PM.png" alt="Photo" style="width: 350px;"/>
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-04-18 at 6.13.21 PM.png" alt="Photo" style="width: 350px;"/>
-  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-04-18 at 6.13.50 PM.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-04-18 at 6.51.41 PM.png" alt="Photo" style="width: 350px;"/>
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-04-18 at 6.15.57 PM.png" alt="Photo" style="width: 350px;"/>
 </p>
 <p align="center">
