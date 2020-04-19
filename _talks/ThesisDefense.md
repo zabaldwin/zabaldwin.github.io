@@ -22,4 +22,4 @@ between data and Monte Carlo samples are obtained to estimate the signal purity 
 provide a stepping stone to ultimately measure the sigma beam asymmetry for large angle Compton scattering events.
 
 
-To download adn read, follow the instructions in [William and Mary's Scholar Works](https://scholarworks.wm.edu/honorstheses/1317/)
+To download and read my actual thesis, follow the instructions in [William and Mary's Scholar Works](https://scholarworks.wm.edu/honorstheses/1317/)
