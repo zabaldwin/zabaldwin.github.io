@@ -8,6 +8,18 @@ author_profile: true
 
 Here are some of the great memories I have had, with even greater people.
 
+## Advisors
+_________________
+
+###### William and Mary Undergraduate Advisor: Justin Stevens
+
+<img src="https://zabaldwin.github.io/files/MeJustin2.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/MeJustin.png" alt="Photo" style="width: 150px;"/>
+
+###### Univeristy of Glasgow Undergraduate Advisor: Ken Livingston
+
+<img src="https://zabaldwin.github.io/files/KenGlasgow.png" alt="Photo" style="width: 150px;"/>
+
 
 ## Research in Scotland
 ___________________________
@@ -35,17 +47,7 @@ ___________________________
 <img src="https://zabaldwin.github.io/files/GlasgowGroup.png" alt="Photo" style="width: 150px;"/>
 
 
-## Advisors
-_________________
 
-###### William and Mary Undergraduate Advisor: Justin Stevens
-
-<img src="https://zabaldwin.github.io/files/MeJustin2.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/MeJustin.png" alt="Photo" style="width: 150px;"/>
-
-###### Univeristy of Glasgow Undergraduate Advisor: Ken Livingston
-
-<img src="https://zabaldwin.github.io/files/KenGlasgow.png" alt="Photo" style="width: 150px;"/>
 
 
 
@@ -106,10 +108,12 @@ __________________
 <img src="https://zabaldwin.github.io/files/FeynmannsSister.png" alt="Photo" style="width: 150px;"/>
 
 ## GlueX
+________________
 
 <img src="https://zabaldwin.github.io/files/MeStuart.png" alt="Photo" style="width: 150px;"/>
 
 ## William and Mary
+_________________________
 
 <img src="https://zabaldwin.github.io/files/WMGroup4.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Graduation3.png" alt="Photo" style="width: 150px;"/>
