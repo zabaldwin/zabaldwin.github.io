@@ -22,6 +22,45 @@ _________________
 
 <img src="https://zabaldwin.github.io/files/KenGlasgow.png" alt="Photo" style="width: 150px;"/>
 
+###### A few amazing physicists I have meet along the way
+__________________
+<p align="center">
+<img src="https://zabaldwin.github.io/files/MeStuart.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/JohnGlasgow.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/SimonGlasgow.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/DerekGlasgow.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/GlasgowGroup.png" alt="Photo" style="width: 150px;"/>
+</p>
+_____________________
+<p align="center">
+Glaswegian Physicists 
+</p>
+_____________________
+
+<p align="center">
+<img src="https://zabaldwin.github.io/files/MeProfessors.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/GroupWM.png" alt="Photo" style="width: 150px;"/>
+</p>
+<p align="center">
+<img src="https://zabaldwin.github.io/files/MeJohn.png" alt="Photo" style="width: 150px;"/>
+</p>
+_____________________
+<p align="center">
+My great buddy John and I during a W&M tradition
+</p>
+_____________________
+
+
+
+<p align="center">
+<img src="https://zabaldwin.github.io/files/FeynmannsSister.png" alt="Photo" style="width: 250px;"/>
+</p>
+_____________________
+<p align="center">
+The time I meet Richard Feynmann's sister
+</p>
+_____________________
+
 
 ## Research in Scotland
 ___________________________
@@ -43,11 +82,9 @@ ___________________________
 
 <img src="https://zabaldwin.github.io/files/GlasgowMe.png" alt="Photo" style="width: 150px;"/>
 
-<img src="https://zabaldwin.github.io/files/JohnGlasgow.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/SimonGlasgow.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/DerekGlasgow.png" alt="Photo" style="width: 150px;"/>
+
 <img src="https://zabaldwin.github.io/files/GlasgowWeightlifting.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/GlasgowGroup.png" alt="Photo" style="width: 150px;"/>
+
 
 
 
@@ -130,7 +167,7 @@ _____________________
 Some of the smartest undergradutes in Nuclear Physics from the best schools all over the country 
 </p>
 _____________________
-<img src="https://zabaldwin.github.io/files/MeProfessors.png" alt="Photo" style="width: 150px;"/>
+
 
 ###### MENU Conference 2019
 
@@ -139,18 +176,11 @@ _____________________
 <img src="https://zabaldwin.github.io/files/GLueX.png" alt="Photo" style="width: 150px;"/>
 </p>
 
-<p align="center">
-<img src="https://zabaldwin.github.io/files/FeynmannsSister.png" alt="Photo" style="width: 250px;"/>
-</p>
-_____________________
-<p align="center">
-The time I meet Richard Feynmann's sister
-</p>
-_____________________
+
 ## GlueX
 ________________
 
-<img src="https://zabaldwin.github.io/files/MeStuart.png" alt="Photo" style="width: 150px;"/>
+
 
 ## William and Mary
 _________________________
