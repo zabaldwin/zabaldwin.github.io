@@ -38,10 +38,12 @@ Here are some of the great memories I have had, with even greater people.
 _________________
 
 ###### William and Mary Undergraduate Advisor: Justin Stevens
+
 <img src="https://zabaldwin.github.io/files/MeJustin2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/MeJustin.png" alt="Photo" style="width: 150px;"/>
 
 ###### Univeristy of Glasgow Undergraduate Advisor: Ken Livingston
+
 <img src="https://zabaldwin.github.io/files/KenGlasgow.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Ken.png" alt="Photo" style="width: 150px;"/>
 
