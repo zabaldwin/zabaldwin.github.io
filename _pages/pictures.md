@@ -40,7 +40,9 @@ _____________________
 <p align="center">
 <img src="https://zabaldwin.github.io/files/MeProfessors.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GroupWM.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/Scotlandgroup.png" alt="Photo" style="width: 150px;"/>
 </p>
+
 <p align="center">
 <img src="https://zabaldwin.github.io/files/MeJohn.png" alt="Photo" style="width: 150px;"/>
 </p>
@@ -70,7 +72,7 @@ ___________________________
 <img src="https://zabaldwin.github.io/files/Scotlandtrip.png" alt="Photo" style="width: 150px;"/>
 
 <img src="https://zabaldwin.github.io/files/OfficeGLasgowview.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/Scotlandgroup.png" alt="Photo" style="width: 150px;"/>
+
 
 <img src="https://zabaldwin.github.io/files/Glasgow.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GlasgowSign.png" alt="Photo" style="width: 150px;"/>
