@@ -8,6 +8,7 @@ author_profile: true
 
 Here are some of the great memories I have had, with even greater people.
 
+_________________
 ## Advisors
 _________________
 
