@@ -92,7 +92,7 @@ __________________
   <img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
 </p>
 <p align="center">
-###### Pictures of the beautiful Hawaii scenery
+Pictures of the beautiful Hawaii scenery
 </p>
 
 __________________
