@@ -6,20 +6,27 @@ author_profile: true
 ---
 
 
-Here are some of great memories I have had, with some even greater physicists'.
-
-### Glasgow Research
+Here are some of the great memories I have had, with even greater people.
 
 
-
-
-
-
-
-### Conferences
+## Research in Scotland
 
 
 
 
 
-### Undergrad
+## Research in Germany
+
+
+
+
+
+
+
+## Conferences
+
+
+
+
+
+## Undergrad
