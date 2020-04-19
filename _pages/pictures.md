@@ -104,8 +104,10 @@ __________________
 The conference was during the only time that I could take the 
 Physics GRE, so me and John island hopped to Maui to take the nearest test on Maui 
 </p>
-
+ __________________
 <p align="center">
+  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-04-19 at 3.40.23 AM.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-04-19 at 3.41.05 AM.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/HawaiiGroup4.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/HawaiiGroup3.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/HawaiiGroup2.png" alt="Photo" style="width: 150px;"/>
