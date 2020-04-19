@@ -21,5 +21,3 @@ shower shape variables are used to study these effects, and with the introductio
 between data and Monte Carlo samples are obtained to estimate the signal purity for these two reactions. These results will 
 provide a stepping stone to ultimately measure the sigma beam asymmetry for large angle Compton scattering events.
 
-
-To download and read my actual thesis, follow the instructions in [William and Mary's Scholar Works](https://scholarworks.wm.edu/honorstheses/1317/)
