@@ -84,21 +84,21 @@ __________________
   <img src="https://zabaldwin.github.io/files/Hawaii2.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii6.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii4.png" alt="Photo" style="width: 150px;"/>
-  <img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii1.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
 </p>
 <p align="center">
 Pictures of the beautiful Hawaii scenery
 </p>
 
-
+__________________
 
 <p align="center">
   <img src="https://zabaldwin.github.io/files/PlaneHawaii2.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/PlaneHawaii.png" alt="Photo" style="width: 150px;"/>
 
   <img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
-  <img src="https://zabaldwin.github.io/files/HawaiiTurtles.png" alt="Photo" style="width: 150px;"/>
+  
 </p>
 <p align="center">
 The conference was during the only time that I could take the 
@@ -111,6 +111,7 @@ Physics GRE, so me and John island hopped to Maui to take the nearest test on Ma
   <img src="https://zabaldwin.github.io/files/HawaiiGroup2.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaiigroup.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/HawaiiTurtles.png" alt="Photo" style="width: 150px;"/>
 </p>
 <p align="center">
 Some of the smartest undergradutes in Nuclear Physics from the best schools all over the country 
