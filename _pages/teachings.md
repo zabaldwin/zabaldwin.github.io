@@ -5,4 +5,4 @@ permalink: /teachings/
 author_profile: true
 ---
 
-Test
+No teaching experience yet.
