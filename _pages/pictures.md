@@ -79,8 +79,6 @@ __________________
 ###### DNP Hawaii Conference 2018 
 
 <p align="center">
-
-  <img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii8.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii7.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii2.png" alt="Photo" style="width: 150px;"/>
@@ -93,22 +91,30 @@ __________________
 Pictures of the beautiful Hawaii scenery
 </p>
 
-* The conference was during the only time that I could take the 
-Physics GRE, so me and John island hopped to Maui to take the nearest test 
 
-<img src="https://zabaldwin.github.io/files/PlaneHawaii2.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/PlaneHawaii.png" alt="Photo" style="width: 150px;"/>
 
-<img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/HawaiiTurtles.png" alt="Photo" style="width: 150px;"/>
+<p align="center">
+  <img src="https://zabaldwin.github.io/files/PlaneHawaii2.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/PlaneHawaii.png" alt="Photo" style="width: 150px;"/>
 
-> Some of the smartest undergradutes in Nuclear Physics from the best schools all over the country 
+  <img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/HawaiiTurtles.png" alt="Photo" style="width: 150px;"/>
+</p>
+<p align="center">
+The conference was during the only time that I could take the 
+Physics GRE, so me and John island hopped to Maui to take the nearest test on Maui 
+</p>
 
-<img src="https://zabaldwin.github.io/files/HawaiiGroup4.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/HawaiiGroup3.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/HawaiiGroup2.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/Hawaiigroup.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
+<p align="center">
+  <img src="https://zabaldwin.github.io/files/HawaiiGroup4.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/HawaiiGroup3.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/HawaiiGroup2.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/Hawaiigroup.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
+</p>
+<p align="center">
+Some of the smartest undergradutes in Nuclear Physics from the best schools all over the country 
+</p>
 
 <img src="https://zabaldwin.github.io/files/MeProfessors.png" alt="Photo" style="width: 150px;"/>
 
