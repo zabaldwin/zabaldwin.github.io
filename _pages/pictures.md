@@ -45,7 +45,7 @@ _________________
 ###### Univeristy of Glasgow Undergraduate Advisor: Ken Livingston
 
 <img src="https://zabaldwin.github.io/files/KenGlasgow.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/Ken.png" alt="Photo" style="width: 150px;"/>
+
 
 
 ## Research in Germany
@@ -64,10 +64,13 @@ _________________
 <img src="https://zabaldwin.github.io/files/Experiment3.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Experiment2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GermanyExperiment.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/Ken.png" alt="Photo" style="width: 150px;"/>
 
 <img src="https://zabaldwin.github.io/files/MeGermany.png" alt="Photo" style="width: 150px;"/>
 
 ## Conferences
+
+###### DNP Hawaii Conference 
 
 <img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Hawaii8.png" alt="Photo" style="width: 150px;"/>
@@ -77,6 +80,9 @@ _________________
 <img src="https://zabaldwin.github.io/files/Hawaii4.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Hawaii1.png" alt="Photo" style="width: 150px;"/>
+
+
+<img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/PlaneHawaii2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/PlaneHawaii.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/HwaiiMe.png" alt="Photo" style="width: 150px;"/>
@@ -89,11 +95,15 @@ _________________
 <img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
 
 <img src="https://zabaldwin.github.io/files/MeProfessors.png" alt="Photo" style="width: 150px;"/>
+
+###### MENU Conference 
+<img src="https://zabaldwin.github.io/files/GLueX2.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/GLueX.png" alt="Photo" style="width: 150px;"/>
+
 <img src="https://zabaldwin.github.io/files/FeynmannsSister.png" alt="Photo" style="width: 150px;"/>
 
 ## GlueX
-<img src="https://zabaldwin.github.io/files/GLueX2.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/GLueX.png" alt="Photo" style="width: 150px;"/>
+
 <img src="https://zabaldwin.github.io/files/MeStuart.png" alt="Photo" style="width: 150px;"/>
 
 ## Undergrad
