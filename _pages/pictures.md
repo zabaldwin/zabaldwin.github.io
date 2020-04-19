@@ -77,6 +77,7 @@ __________________
 
 ###### DNP Hawaii Conference 2018 
 
+* Some beautiful pictures of the Hawaii scenery
 <img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Hawaii8.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Hawaii7.png" alt="Photo" style="width: 150px;"/>
@@ -87,12 +88,15 @@ __________________
 <img src="https://zabaldwin.github.io/files/Hawaii1.png" alt="Photo" style="width: 150px;"/>
 
 
-<img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
+* The conference was during the only time that I could take the 
+Physics GRE, so me and John island hopped to Maui to take the nearest test 
+
 <img src="https://zabaldwin.github.io/files/PlaneHawaii2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/PlaneHawaii.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/HwaiiMe.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/HawaiiTurtles.png" alt="Photo" style="width: 150px;"/>
 
+* Some of the smartest undergradutes in Nuclear Physics from the best schools all over the country 
 <img src="https://zabaldwin.github.io/files/HawaiiGroup4.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/HawaiiGroup3.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/HawaiiGroup2.png" alt="Photo" style="width: 150px;"/>
@@ -105,6 +109,7 @@ __________________
 <img src="https://zabaldwin.github.io/files/GLueX2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GLueX.png" alt="Photo" style="width: 150px;"/>
 
+* The time I meet Richard Feynmann's sister
 <img src="https://zabaldwin.github.io/files/FeynmannsSister.png" alt="Photo" style="width: 150px;"/>
 
 ## GlueX
