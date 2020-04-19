@@ -8,7 +8,7 @@ author_profile: true
 
 Here are some of the great memories I have had, with even greater people.
 
-_________________
+
 ## Advisors
 _________________
 
@@ -94,10 +94,11 @@ Physics GRE, so me and John island hopped to Maui to take the nearest test
 
 <img src="https://zabaldwin.github.io/files/PlaneHawaii2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/PlaneHawaii.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/HwaiiMe.png" alt="Photo" style="width: 150px;"/>
+
 <img src="https://zabaldwin.github.io/files/HawaiiTurtles.png" alt="Photo" style="width: 150px;"/>
 
-* Some of the smartest undergradutes in Nuclear Physics from the best schools all over the country 
+> Some of the smartest undergradutes in Nuclear Physics from the best schools all over the country 
+
 <img src="https://zabaldwin.github.io/files/HawaiiGroup4.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/HawaiiGroup3.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/HawaiiGroup2.png" alt="Photo" style="width: 150px;"/>
@@ -111,6 +112,7 @@ Physics GRE, so me and John island hopped to Maui to take the nearest test
 <img src="https://zabaldwin.github.io/files/GLueX.png" alt="Photo" style="width: 150px;"/>
 
 * The time I meet Richard Feynmann's sister
+
 <img src="https://zabaldwin.github.io/files/FeynmannsSister.png" alt="Photo" style="width: 150px;"/>
 
 ## GlueX
