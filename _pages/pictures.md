@@ -139,9 +139,9 @@ _____________________
 <img src="https://zabaldwin.github.io/files/GLueX.png" alt="Photo" style="width: 150px;"/>
 </p>
 
-
-<img src="https://zabaldwin.github.io/files/FeynmannsSister.png" alt="Photo" style="width: 150px;"/>
-
+<p align="center">
+<img src="https://zabaldwin.github.io/files/FeynmannsSister.png" alt="Photo" style="width: 250px;"/>
+</p>
 _____________________
 <p align="center">
 The time I meet Richard Feynmann's sister
