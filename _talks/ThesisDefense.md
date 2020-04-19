@@ -8,7 +8,7 @@ date: 2019-05-01
 location: "The College of William and Mary, Virginia"
 ---
 
-Abstract:
+Abstract located below:
 
 By using data collected from Thomas Jefferson National Accelerator (JLab), I will be observing two specific reactions from the 
 collision of linearly polarized photons with protons in a liquid hydrogen target. In this work, studies of the neutral pion 
