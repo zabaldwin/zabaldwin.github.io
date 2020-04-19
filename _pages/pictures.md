@@ -101,9 +101,9 @@ __________________
   <img src="https://zabaldwin.github.io/files/PlaneHawaii2.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/PlaneHawaii.png" alt="Photo" style="width: 150px;"/>
 
-  <img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
-___________________  
+  <img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/> 
 </p>
+___________________ 
 <p align="center">
 The conference was during the only time that I could take the 
 Physics GRE, so me and John island hopped to take the nearest test on Maui
