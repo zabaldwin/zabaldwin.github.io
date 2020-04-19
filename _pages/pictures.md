@@ -11,6 +11,7 @@ Here are some of the great memories I have had, with even greater people.
 
 ## Advisors
 _________________
+_________________
 
 ###### William and Mary Undergraduate Advisor: Justin Stevens
 
@@ -23,6 +24,7 @@ _________________
 
 
 ## Research in Scotland
+___________________________
 ___________________________
 
 <img src="https://zabaldwin.github.io/files/Dunotor.png" alt="Photo" style="width: 150px;"/>
@@ -54,6 +56,7 @@ ___________________________
 
 ## Research in Germany
 ___________________________
+___________________________
 
 <img src="https://zabaldwin.github.io/files/Germany.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany2.png" alt="Photo" style="width: 150px;"/>
@@ -75,6 +78,7 @@ ___________________________
 
 ## Conferences
 __________________
+__________________
 
 ###### DNP Hawaii Conference 2018 
 
@@ -88,7 +92,7 @@ __________________
   <img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
 </p>
 <p align="center">
-Pictures of the beautiful Hawaii scenery
+###### Pictures of the beautiful Hawaii scenery
 </p>
 
 __________________
