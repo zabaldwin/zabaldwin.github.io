@@ -20,3 +20,6 @@ neutral pion decay photons with a small opening angle to look like single Compto
 shower shape variables are used to study these effects, and with the introduction of three new width variables, comparisons 
 between data and Monte Carlo samples are obtained to estimate the signal purity for these two reactions. These results will 
 provide a stepping stone to ultimately measure the sigma beam asymmetry for large angle Compton scattering events.
+
+
+To download adn read, follow the instructions in [William and Mary's Scholar Works](https://scholarworks.wm.edu/honorstheses/1317/)
