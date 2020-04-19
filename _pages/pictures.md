@@ -10,6 +10,7 @@ Here are some of the great memories I have had, with even greater people.
 
 
 ## Research in Scotland
+___________________________
 
 <img src="https://zabaldwin.github.io/files/Dunotor.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Scotlandtrip.png" alt="Photo" style="width: 150px;"/>
@@ -49,6 +50,7 @@ _________________
 
 
 ## Research in Germany
+___________________________
 
 <img src="https://zabaldwin.github.io/files/Germany.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany2.png" alt="Photo" style="width: 150px;"/>
@@ -69,8 +71,9 @@ _________________
 <img src="https://zabaldwin.github.io/files/MeGermany.png" alt="Photo" style="width: 150px;"/>
 
 ## Conferences
+__________________
 
-###### DNP Hawaii Conference 
+###### DNP Hawaii Conference 2018 
 
 <img src="https://zabaldwin.github.io/files/HawaiiFunny.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Hawaii8.png" alt="Photo" style="width: 150px;"/>
@@ -96,7 +99,7 @@ _________________
 
 <img src="https://zabaldwin.github.io/files/MeProfessors.png" alt="Photo" style="width: 150px;"/>
 
-###### MENU Conference 
+###### MENU Conference 2019
 <img src="https://zabaldwin.github.io/files/GLueX2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GLueX.png" alt="Photo" style="width: 150px;"/>
 
@@ -106,7 +109,7 @@ _________________
 
 <img src="https://zabaldwin.github.io/files/MeStuart.png" alt="Photo" style="width: 150px;"/>
 
-## Undergrad
+## William and Mary
 
 <img src="https://zabaldwin.github.io/files/WMGroup4.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Graduation3.png" alt="Photo" style="width: 150px;"/>
