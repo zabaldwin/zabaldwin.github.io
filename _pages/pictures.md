@@ -34,7 +34,7 @@ _________________
 </p>
 _____________________
 <p align="center">
-Glaswegian Physicists 
+The Glaswegian physicists I worked with at the uni 
 </p>
 _____________________
 
