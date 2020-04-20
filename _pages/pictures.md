@@ -27,9 +27,9 @@ __________________
 <p align="center">
 <img src="https://zabaldwin.github.io/files/MeStuart.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/JohnGlasgow.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/GlasgowGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/SimonGlasgow.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/DerekGlasgow.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/GlasgowGroup.png" alt="Photo" style="width: 150px;"/>
 </p>
 _____________________
 <p align="center">
