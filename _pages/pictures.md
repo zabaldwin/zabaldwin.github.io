@@ -99,9 +99,9 @@ During my time in Scotland, the famous Mackintosh building caught on fire. I was
 </p>
 _____________________
 
-<img src="https://zabaldwin.github.io/files/Glasgowme3.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/GlasgowMe.png" alt="Photo" style="width: 150px;"/>
+
 <img src="https://zabaldwin.github.io/files/GlasgowWeightlifting.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/GlasgowMe.png" alt="Photo" style="width: 150px;"/>
 
 
 
