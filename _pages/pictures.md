@@ -83,6 +83,7 @@ _____________________
 <img src="https://zabaldwin.github.io/files/OfficeGLasgowview.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Glasgow.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GlasgowSign.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/GlasgowMe.png" alt="Photo" style="width: 150px;"/>
 </p>
 _____________________
 <p align="center">
@@ -99,9 +100,14 @@ During my time in Scotland, the famous Mackintosh building caught on fire. I was
 </p>
 _____________________
 
-
+<p align="center">
 <img src="https://zabaldwin.github.io/files/GlasgowWeightlifting.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/GlasgowMe.png" alt="Photo" style="width: 150px;"/>
+</p>
+_____________________
+<p align="center">
+I was also able to lift with the uni's powerlifting team while doing reasearch. Sadly, I never got a group picture with everyone but I was able to get a picture with the other Americans on the team! 
+</p>
+_____________________
 
 
 
