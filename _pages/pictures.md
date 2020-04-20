@@ -37,11 +37,11 @@ Glaswegian Physicists
 </p>
 _____________________
 
-<p align="center">
+
 <img src="https://zabaldwin.github.io/files/MeProfessors.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/WMGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Scotlandgroup.png" alt="Photo" style="width: 150px;"/>
-</p>
+
 
 _____________________
 <p align="center">
