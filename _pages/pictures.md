@@ -79,10 +79,16 @@ The famous Dunnator Castle!
 </p>
 _____________________
 
-<img src="https://zabaldwin.github.io/files/Scotlandtrip.png" alt="Photo" style="width: 150px;"/>
+<p align="center">
 <img src="https://zabaldwin.github.io/files/OfficeGLasgowview.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Glasgow.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GlasgowSign.png" alt="Photo" style="width: 150px;"/>
+</p>
+_____________________
+<p align="center">
+A few glimpses of the University of Glasgow. Fun fact, J.K. Rowling wrote Harry Potter a little ways away in Edinburgh and was said to have based Hogwarts on the structure of the Uni.
+</p>
+_____________________
 
 <p align="center">
 <img src="https://zabaldwin.github.io/files/GlasgowFire.png" alt="Photo" style="width: 150px;"/>
