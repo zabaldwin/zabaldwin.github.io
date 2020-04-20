@@ -194,8 +194,6 @@ Physics GRE, so me and John island hopped to take the nearest test on Maui
 </p>
  __________________
 <p align="center">
-  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-04-19 at 3.40.23 AM.png" alt="Photo" style="width: 150px;"/>
-  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-04-19 at 3.41.05 AM.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/HawaiiGroup6.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/HawaiiFullGroup.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/HawaiiFullGroup2.png" alt="Photo" style="width: 150px;"/>
