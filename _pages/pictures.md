@@ -123,7 +123,6 @@ ___________________________
 <img src="https://zabaldwin.github.io/files/Germany.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany3.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/Germany5.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany6.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany7.png" alt="Photo" style="width: 150px;"/>
  <img src="https://zabaldwin.github.io/files/GermanyRhine.png" alt="Photo" style="width: 150px;"/>
