@@ -78,15 +78,18 @@ ___________________________
 
 <img src="https://zabaldwin.github.io/files/Glasgow.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GlasgowSign.png" alt="Photo" style="width: 150px;"/>
+
+<p align="center">
 <img src="https://zabaldwin.github.io/files/GlasgowFire.png" alt="Photo" style="width: 150px;"/>
+</p>
+_____________________
+<p align="center">
+During my time in Scotland, the famous Mackintosh building caught on fire. I was able to see the blaze a few miles away at my flat 
+</p>
+_____________________
+
 <img src="https://zabaldwin.github.io/files/Glasgowme3.png" alt="Photo" style="width: 150px;"/>
-
-
-<img src="https://zabaldwin.github.io/files/GroupGlasgow.png" alt="Photo" style="width: 150px;"/>
-
 <img src="https://zabaldwin.github.io/files/GlasgowMe.png" alt="Photo" style="width: 150px;"/>
-
-
 <img src="https://zabaldwin.github.io/files/GlasgowWeightlifting.png" alt="Photo" style="width: 150px;"/>
 
 
