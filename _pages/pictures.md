@@ -39,7 +39,7 @@ _____________________
 
 <p align="center">
 <img src="https://zabaldwin.github.io/files/MeProfessors.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/GroupWM.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/WMGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Scotlandgroup.png" alt="Photo" style="width: 150px;"/>
 </p>
 
@@ -196,7 +196,7 @@ _________________________
 <img src="https://zabaldwin.github.io/files/Williamsburg.png" alt="Photo" style="width: 150px;"/>
 
 <img src="https://zabaldwin.github.io/files/MeJohn.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/GroupWM.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/WMGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/MeHenri.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GraduationGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/MeThesis.png" alt="Photo" style="width: 150px;"/>
