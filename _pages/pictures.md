@@ -101,7 +101,7 @@ During my time in Scotland, the famous Mackintosh building caught on fire. I was
 _____________________
 
 <p align="center">
-<img src="https://zabaldwin.github.io/files/GlasgowWeightlifting.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/GlasgowWeightlifting.png" alt="Photo" style="width: 250px;"/>
 </p>
 _____________________
 <p align="center">
@@ -119,13 +119,23 @@ _____________________
 ___________________________
 ___________________________
 
+<p align="center">
 <img src="https://zabaldwin.github.io/files/Germany.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany3.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany5.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany6.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany7.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/GermanyRhine.png" alt="Photo" style="width: 150px;"/>
+ <img src="https://zabaldwin.github.io/files/GermanyRhine.png" alt="Photo" style="width: 150px;"/>
+ </p>
+ 
+ _____________________
+<p align="center">
+Some pictures of the town I was in for a while Mainz, Germany
+</p>
+_____________________
+
+
 <img src="https://zabaldwin.github.io/files/KenSimon2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/KenSimon.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Experiment5.png" alt="Photo" style="width: 150px;"/>
