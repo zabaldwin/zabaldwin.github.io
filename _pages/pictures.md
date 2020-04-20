@@ -119,6 +119,8 @@ _____________________
 ___________________________
 ___________________________
 
+<img src="https://zabaldwin.github.io/files/MeGermany.png" alt="Photo" style="width: 150px;"/>
+_______________________
 <p align="center">
 <img src="https://zabaldwin.github.io/files/Germany.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany2.png" alt="Photo" style="width: 150px;"/>
@@ -143,7 +145,16 @@ _____________________
 <img src="https://zabaldwin.github.io/files/Experiment2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GermanyExperiment.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Ken.png" alt="Photo" style="width: 150px;"/>  
-<img src="https://zabaldwin.github.io/files/MeGermany.png" alt="Photo" style="width: 150px;"/>
+ </p>
+
+ _____________________
+<p align="center">
+Ken, Simon, a couple other physicists, and I building the pair polarimeter and testing it out on the MAMI experiment
+</p>
+_____________________
+
+
+
 
 ## Conferences
 __________________
