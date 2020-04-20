@@ -201,12 +201,19 @@ Physics GRE, so me and John island hopped to take the nearest test on Maui
   <img src="https://zabaldwin.github.io/files/HawaiiGroup3.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/HawaiiGroup2.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaiigroup.png" alt="Photo" style="width: 150px;"/>
-  <img src="https://zabaldwin.github.io/files/HawaiiTurtles.png" alt="Photo" style="width: 150px;"/>
 </p>
 _____________________
 <p align="center">
 Some of the smartest undergradutes in Nuclear Physics from the best schools all over the country 
 </p>
+_____________________
+
+<p align="center">
+<img src="https://zabaldwin.github.io/files/HawaiiTurtles.png" alt="Photo" style="width: 150px;"/>
+</p>
+_____________________
+<p align="center">
+Swimming with turtles!
 _____________________
 
 
