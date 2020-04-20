@@ -23,7 +23,7 @@ _________________
 <img src="https://zabaldwin.github.io/files/KenGlasgow.png" alt="Photo" style="width: 150px;"/>
 
 ###### A few amazing physicists I have meet along the way
-__________________
+
 <p align="center">
 <img src="https://zabaldwin.github.io/files/MeStuart.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/JohnGlasgow.png" alt="Photo" style="width: 150px;"/>
