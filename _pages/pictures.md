@@ -124,13 +124,13 @@ __________________
 ###### DNP Hawaii Conference 2018 
 
 <p align="center">
-  <img src="https://zabaldwin.github.io/files/Hawaii10.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/Hawaii6.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii11.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii12.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii8.png" alt="Photo" style="width: 150px;"/>
-  <img src="https://zabaldwin.github.io/files/Hawaii7.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii2.png" alt="Photo" style="width: 150px;"/>
-  <img src="https://zabaldwin.github.io/files/Hawaii6.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/Hawaii7.png" alt="Photo" style="width: 150px;"/>
+  <img src="https://zabaldwin.github.io/files/Hawaii10.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii4.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii1.png" alt="Photo" style="width: 150px;"/>
   <img src="https://zabaldwin.github.io/files/Hawaii3.png" alt="Photo" style="width: 150px;"/>
