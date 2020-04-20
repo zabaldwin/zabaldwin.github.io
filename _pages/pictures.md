@@ -70,12 +70,17 @@ _____________________
 ___________________________
 ___________________________
 
+<p align="center">
 <img src="https://zabaldwin.github.io/files/Dunotor.png" alt="Photo" style="width: 150px;"/>
+</p>
+_____________________
+<p align="center">
+The famous Dunnator Castle!
+</p>
+_____________________
+
 <img src="https://zabaldwin.github.io/files/Scotlandtrip.png" alt="Photo" style="width: 150px;"/>
-
 <img src="https://zabaldwin.github.io/files/OfficeGLasgowview.png" alt="Photo" style="width: 150px;"/>
-
-
 <img src="https://zabaldwin.github.io/files/Glasgow.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GlasgowSign.png" alt="Photo" style="width: 150px;"/>
 
@@ -116,8 +121,7 @@ ___________________________
 <img src="https://zabaldwin.github.io/files/Experiment3.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Experiment2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GermanyExperiment.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/Ken.png" alt="Photo" style="width: 150px;"/>
-
+<img src="https://zabaldwin.github.io/files/Ken.png" alt="Photo" style="width: 150px;"/>  
 <img src="https://zabaldwin.github.io/files/MeGermany.png" alt="Photo" style="width: 150px;"/>
 
 ## Conferences
@@ -198,12 +202,10 @@ _________________________
 <img src="https://zabaldwin.github.io/files/SmallHall.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/WMGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Williamsburg.png" alt="Photo" style="width: 150px;"/>
-
 <img src="https://zabaldwin.github.io/files/MeJohn.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/WMGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/MeHenri.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GraduationGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/MeThesis.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/WMGroup2.png" alt="Photo" style="width: 150px;"/>
-
 <img src="https://zabaldwin.github.io/files/PresentingThesis.png" alt="Photo" style="width: 150px;"/>
