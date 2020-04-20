@@ -120,7 +120,8 @@ ___________________________
 ___________________________
 
 <img src="https://zabaldwin.github.io/files/MeGermany.png" alt="Photo" style="width: 150px;"/>
-_______________________
+____________________________
+
 <p align="center">
 <img src="https://zabaldwin.github.io/files/Germany.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Germany2.png" alt="Photo" style="width: 150px;"/>
@@ -136,7 +137,7 @@ Some pictures of the town I was in for a while Mainz, Germany
 </p>
 _____________________
 
-
+<p align="center">
 <img src="https://zabaldwin.github.io/files/KenSimon2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/KenSimon.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Experiment5.png" alt="Photo" style="width: 150px;"/>
@@ -145,7 +146,7 @@ _____________________
 <img src="https://zabaldwin.github.io/files/Experiment2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GermanyExperiment.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Ken.png" alt="Photo" style="width: 150px;"/>  
- </p>
+</p>
 
  _____________________
 <p align="center">
