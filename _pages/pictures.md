@@ -143,7 +143,6 @@ _____________________
 <img src="https://zabaldwin.github.io/files/Experiment5.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Experiment4.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Experiment3.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/Experiment2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GermanyExperiment.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Ken.png" alt="Photo" style="width: 150px;"/>  
 </p>
