@@ -28,6 +28,7 @@ __________________
 <img src="https://zabaldwin.github.io/files/MeStuart.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/JohnGlasgow.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GlasgowGroup.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/GroupGlasgow2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/SimonGlasgow.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/DerekGlasgow.png" alt="Photo" style="width: 150px;"/>
 </p>
@@ -80,7 +81,7 @@ ___________________________
 <img src="https://zabaldwin.github.io/files/GlasgowFire.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Glasgowme3.png" alt="Photo" style="width: 150px;"/>
 
-<img src="https://zabaldwin.github.io/files/GroupGlasgow2.png" alt="Photo" style="width: 150px;"/>
+
 <img src="https://zabaldwin.github.io/files/GroupGlasgow.png" alt="Photo" style="width: 150px;"/>
 
 <img src="https://zabaldwin.github.io/files/GlasgowMe.png" alt="Photo" style="width: 150px;"/>
