@@ -43,8 +43,9 @@ _____________________
 <img src="https://zabaldwin.github.io/files/Scotlandgroup.png" alt="Photo" style="width: 150px;"/>
 </p>
 
+_____________________
 <p align="center">
-<img src="https://zabaldwin.github.io/files/MeJohn.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/MeJohn.png" alt="Photo" style="width: 350px;"/>
 </p>
 _____________________
 <p align="center">
