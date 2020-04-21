@@ -215,7 +215,7 @@ _____________________
 <p align="center">
 Swimming with turtles!
 _____________________
-
+</p>
 
 ###### MENU Conference 2019
 
