@@ -190,7 +190,7 @@ __________________
 ___________________ 
 <p align="center">
 The conference was during the only time that I could take the 
-Physics GRE, so me and John island hopped to take the nearest test on Maui
+Physics GRE, so John and I island hopped to take the nearest test on Maui
 </p>
  __________________
 <p align="center">
