@@ -8,6 +8,16 @@ author_profile: true
 
 Here are some of the great memories I have had, with even greater people.
 
+## Family
+_________________
+_________________
+<img src="https://zabaldwin.github.io/files/Bailey_Cinnabun_Me.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/Cinnabun.png" alt="Photo" style="width: 150px;"/>
+_____________________
+<p align="center">
+My pet bunny trying to learn path integrals with me 
+</p>
+_____________________
 
 ## Advisors
 _________________
@@ -240,6 +250,7 @@ _________________________
 <img src="https://zabaldwin.github.io/files/SmallHall.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Williamsburg.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/WMGroup.png" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/Graduation_Me.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/MeHenri.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GraduationGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/MeThesis.png" alt="Photo" style="width: 150px;"/>
