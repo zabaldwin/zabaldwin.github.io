@@ -40,13 +40,13 @@ physics experiments at photon beam facilities. After working on these simulation
 
 Current Research
 ======
-My area of research is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta'$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be shown as to allow for a better understanding of meson production mechanisms. Implementing a partial wave analysis will provide information as to what the exotic hybrid candidate with spinexotic-signature is.
+My area of research is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta'$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be shown as to allow for a better understanding of meson production mechanisms. Implementing a partial wave analysis will provide information as to what the exotic hybrid candidate with spin exotic-signature is.
 
 <p align="center">
-  <img src="https://zabaldwin.github.io/Pi0EtaChannel" alt="Photo" style="width: 350px;"/>
-  <img src="https://zabaldwin.github.io/Pi0EtaPrimeChannel" alt="Photo" style="width: 350px;"/>
-  <img src="https://zabaldwin.github.io/CosThetaGJ_Pi0Eta" alt="Photo" style="width: 350px;"/>
-  <img src="https://zabaldwin.github.io/CosThetaGJ_Pi0EtaPrime" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/Pi0EtaChannel.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/Pi0EtaPrimeChannel.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/CosThetaGJ_Pi0Eta.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/CosThetaGJ_Pi0EtaPrime.png" alt="Photo" style="width: 350px;"/>
 </p>
 <p align="center">
 Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
