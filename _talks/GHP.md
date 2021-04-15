@@ -1,0 +1,12 @@
+---
+title: Analyzing ￼$\pi^0 \eta$ and $\pi^0 \eta \prime$￼ systems in the search for exotic hybrid mesons at GlueX- GHP 
+collection: talks
+type: "Oral Presentation"
+permalink: /talks/GHP_2021
+venue: "9th Workshop of the APS Topical Group on Hadronic Physics"
+date: 2021-04-13
+location: "Sacramento, California (Virtual)"
+---
+
+Presented research update at the 9th Workshop of the APS Topical Group on Hadronic Physics. Location of abstract located [here](https://indico.jlab.org/event/412/contributions/7768/)
+
