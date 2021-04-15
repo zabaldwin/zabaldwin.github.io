@@ -24,7 +24,7 @@ _____________________
 </p>
 _____________________
 <p align="center">
-My pet bunny trying to learn path integrals with me 
+My pet bunny, Cinnabun, trying to learn path integrals with me 
 </p>
 _____________________
 
