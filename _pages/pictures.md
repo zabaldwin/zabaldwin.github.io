@@ -133,7 +133,7 @@ ____________________________
  
  _____________________
 <p align="center">
-Some pictures of the town I was in for a while Mainz, Germany
+Some pictures of Mainz, Germany
 </p>
 _____________________
 
@@ -214,8 +214,9 @@ _____________________
 _____________________
 <p align="center">
 Swimming with turtles!
-_____________________
 </p>
+_____________________
+
 
 ###### MENU Conference 2019
 
@@ -237,7 +238,6 @@ _________________________
 <img src="https://zabaldwin.github.io/files/Graduation3.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Graduation2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/SmallHall.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/WMGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Williamsburg.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/MeJohn.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/WMGroup.png" alt="Photo" style="width: 150px;"/>
