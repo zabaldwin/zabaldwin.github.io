@@ -45,6 +45,7 @@ After working on these simulations, I helped build a prototype and test ran it o
   <img src="https://zabaldwin.github.io/files/JohannesGuttenburg_Mainz.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
+
 Current Research
 ======
 My area of research is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta'$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be shown as to allow for a better understanding of meson production mechanisms. Implementing a partial wave analysis will provide information as to what the exotic hybrid candidate with spin exotic-signature is.
