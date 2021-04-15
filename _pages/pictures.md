@@ -139,6 +139,7 @@ ___________________________
 ___________________________
 
 <img src="https://zabaldwin.github.io/files/MeGermany.png" alt="Photo" style="width: 150px;"/>
+
 ____________________________
 
 <p align="center">
