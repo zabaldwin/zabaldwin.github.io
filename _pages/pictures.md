@@ -239,7 +239,6 @@ _________________________
 <img src="https://zabaldwin.github.io/files/Graduation2.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/SmallHall.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Williamsburg.png" alt="Photo" style="width: 150px;"/>
-<img src="https://zabaldwin.github.io/files/MeJohn.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/WMGroup.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/MeHenri.png" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/GraduationGroup.png" alt="Photo" style="width: 150px;"/>
