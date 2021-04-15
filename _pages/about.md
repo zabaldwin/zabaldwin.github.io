@@ -31,7 +31,7 @@ I recieved my Bachelor of Science degree from [The College of William and Mary](
 </p>
 
 During the summer of 2018, I was a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/). I worked on machine learning techniques and simulations for the development of a compact pair polarimeter and spectrometer for use in future hadron
-physics experiments at photon beam facilities. After working on these simulations, I helped build the prototype with the determined parameters and test ran it on the [Mainzer Mikrotron (MAMI)] (https://www.blogs.uni-mainz.de/fb08-nuclear-physics/accelerators-mami-mesa/the-mainz-microtron/) at the [Johannes Gutenberg University in Mainz Germany] (https://www.uni-mainz.de). 
+physics experiments at photon beam facilities. After working on these simulations, I helped build the prototype with the determined parameters and test ran it on the [Mainzer Mikrotron (MAMI)](https://www.blogs.uni-mainz.de/fb08-nuclear-physics/accelerators-mami-mesa/the-mainz-microtron/) at the [Johannes Gutenberg University in Mainz Germany](https://www.uni-mainz.de). 
 
 <p align="right">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.22.30 AM.png
