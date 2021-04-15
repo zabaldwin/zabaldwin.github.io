@@ -13,6 +13,7 @@ _________________
 _________________
 <img src="https://zabaldwin.github.io/files/Bailey_Cinnabun_Me.JPG" alt="Photo" style="width: 150px;"/>
 <img src="https://zabaldwin.github.io/files/Cinnabun.jpg" alt="Photo" style="width: 150px;"/>
+
 _____________________
 <p align="center">
 My pet bunny trying to learn path integrals with me 
