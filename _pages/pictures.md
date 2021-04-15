@@ -11,17 +11,17 @@ Here are some of the great memories I have had, with even greater people.
 ## Family
 _________________
 _________________
+<p align="center">
 <img src="https://zabaldwin.github.io/files/Bailey_Cinnabun_Me.JPG" alt="Photo" style="width: 150px;"/>
-
+</p>
 _____________________
 <p align="center">
 Family Photo 
 </p>
 _____________________
-
+<p align="center">
 <img src="https://zabaldwin.github.io/files/Cinnabun.jpg" alt="Photo" style="width: 150px;"/>
-
-
+</p>
 _____________________
 <p align="center">
 My pet bunny trying to learn path integrals with me 
