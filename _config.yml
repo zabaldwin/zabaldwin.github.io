@@ -49,7 +49,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-logo: "/assets/images/88x88.png"
+logo: "/images/GlueX_Logo.pdf"
 
 # SEO Related
 google_site_verification :
