@@ -50,6 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 logo: "/images/GlueX_Logo.pdf"
+search: true
 
 # SEO Related
 google_site_verification :
