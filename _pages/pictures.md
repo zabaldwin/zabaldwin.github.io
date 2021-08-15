@@ -15,11 +15,11 @@ _________________
 <img src="https://zabaldwin.github.io/files/Bailey_Cinnabun_Me.JPG" alt="Photo" style="width: 150px;"/>
 </p>
 <p align="center">
-<img src="https://zabaldwin.github.io/files/.JPG" alt="Photo" style="width: 150px;"/>
+<img src="https://zabaldwin.github.io/files/IMG_8122.PNG" alt="Photo" style="width: 150px;"/>
 </p>
 _____________________
 <p align="center">
-Family Photo 
+Family Photo's
 </p>
 _____________________
 <p align="center">
