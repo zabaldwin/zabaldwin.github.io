@@ -60,6 +60,5 @@ My area of research is searching for the existence of exotic hybrid mesons, part
 Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
 </p>
 
-{include video id="9tVY6ZDFTjg" provider="youtube"}
 
 
