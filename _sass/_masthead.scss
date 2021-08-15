@@ -20,6 +20,7 @@
     font-family: $sans-serif-narrow;
     font-style: italic;
     font-weight: bold;
+    font-size: large;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
