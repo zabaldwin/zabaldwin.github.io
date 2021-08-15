@@ -42,6 +42,6 @@ var addressPoints = [
   [
     "Mainz (Mainzer Mikrotron)",
     49.98419,
-    -8.2791
+    8.2791
   ]
 ];
