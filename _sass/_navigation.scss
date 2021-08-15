@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: #a9a9a9;//mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -93,7 +93,7 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: #00bfff;//$primary-color;
       }
 
       &.disabled {
