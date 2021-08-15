@@ -41,14 +41,14 @@
     margin: 0;
     padding: 0;
     clear: both;
-    list-style-type: circle;
+    list-style-type: none;
     color: #1a578f;
   }
 }
 
 .masthead__menu-item {
   display: block;
-  list-style-type: none;
+  list-style-type: circle;
   white-space: nowrap;
 
   &--lg {
