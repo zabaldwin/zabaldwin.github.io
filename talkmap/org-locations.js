@@ -5,22 +5,22 @@ var addressPoints = [
     -155.789495
   ], 
   [
-    "Pittsburgh, Pennsylvania",
+    "Pittsburgh (Carnegie Mellon University)",
     40.440763,
     -79.99589
   ],
   [
-    "Glasgow, Scotland",
+    "Glasgow (University of Glasgow)",
     55.86515,
     -4.25763
   ],
   [
-    "Williamsburg, Virginia",
+    "Williamsburg (College of William & Mary)",
     37.2705556,
     -76.7077778
   ],
   [
-    "Newport News, Virginia",
+    "Newport News (Jefferson Lab)",
     37.0870821,
     -76.4730122
   ],
@@ -40,7 +40,7 @@ var addressPoints = [
     -3.19648
   ],
   [
-    "Mainz, Germany",
+    "Mainz (Mainzer Mikrotron)",
     49.98419,
     -8.2791
   ]
