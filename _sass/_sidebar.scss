@@ -23,7 +23,6 @@
       opacity: 1;
        
     }
-     <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=56puiabh4rx&m=7&c=baff00&cr1=ff0000&f=arial&l=1" async="async"></script>
   }
 
 
@@ -117,6 +116,8 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
+     
+    color: #1AA7EC;
   }
 }
 .sidebar .author__name {
