@@ -61,4 +61,4 @@ Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems
 </p>
 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=56puiabh4rx&amp;m=7&amp;c=baff00&amp;cr1=ff0000&amp;f=arial&amp;l=1" async="async"></script>
+
