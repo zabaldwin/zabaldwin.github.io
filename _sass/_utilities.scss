@@ -294,8 +294,6 @@ body:hover .visually-hidden button {
   width: $navicon-width;
   height: $navicon-height;
   background: #141414;//fff;
-  border-style: solid;
-  border-color: #1aa7ec;
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -308,26 +306,18 @@ body:hover .visually-hidden button {
     width: $navicon-width;
     height: $navicon-height;
     background: #141414;//fff;
-    border-style: solid;
-    border-color: #1aa7ec;
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
 
   &:before {
     top: (-2 * $navicon-height);
-    color: #1aa7ec;
     background: #141414;//fff;
-    border-style: solid;
-    border-color: #1aa7ec;
   }
 
   &:after {
     bottom: (-2 * $navicon-height);
-    color: #1aa7ec;
     background: #141414;//fff;
-    border-style: solid;
-    border-color: #1aa7ec;
   }
 }
 
@@ -342,27 +332,21 @@ body:hover .visually-hidden button {
             transform-origin: 50% 50%;
     top: 0;
     width: $navicon-width;
-    background: #141414;//fff;
-    border-style: solid;
-    border-color: #1aa7ec;
+    background: #141414;//ffff
   }
 
   /* rotate the lines to form the x shape*/
   &:before{
     -webkit-transform: rotate3d(0,0,1,45deg);
             transform: rotate3d(0,0,1,45deg);
-            color: #1aa7ec;
             background: #141414;//fff;
-            border-style: solid;
-            border-color: #1aa7ec;
+           
   }
   &:after{
     -webkit-transform: rotate3d(0,0,1,-45deg);
             transform: rotate3d(0,0,1,-45deg);
-            color: #1aa7ec;
             background: #141414;//fff;
-            border-style: solid;
-            border-color: #1aa7ec;
+            
   }
 }
 
