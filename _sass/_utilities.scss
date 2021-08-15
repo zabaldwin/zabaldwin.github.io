@@ -295,6 +295,8 @@ body:hover .visually-hidden button {
   height: $navicon-height;
   color: #1aa7ec;
   background: #a9a9a9;//fff;
+  border-style: solid;
+  border-color: #1aa7ec;
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -337,10 +339,12 @@ body:hover .visually-hidden button {
   &:before{
     -webkit-transform: rotate3d(0,0,1,45deg);
             transform: rotate3d(0,0,1,45deg);
+            color: #1aa7ec;
   }
   &:after{
     -webkit-transform: rotate3d(0,0,1,-45deg);
             transform: rotate3d(0,0,1,-45deg);
+            color: #1aa7ec;
   }
 }
 
