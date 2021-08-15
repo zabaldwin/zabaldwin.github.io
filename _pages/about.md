@@ -30,7 +30,7 @@ During 2019, I recieved my Bachelor of Science degree from [The College of Willi
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-Starting in 2018, I was granted the opportunity to become a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/). I worked on machine learning techniques and simulations while in Scotland, for the development of a compact pair polarimeter and spectrometer for use in future hadron
+Starting in 2018, I was granted the opportunity to become a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/). I worked on machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron
 physics experiments. 
 
 
