@@ -19,7 +19,7 @@ _________________
 </p>
 _____________________
 <p align="center">
-Family Photo's
+Family Photos
 </p>
 _____________________
 <p align="center">
