@@ -11,9 +11,7 @@ Here are some of the great memories I have had, with even greater people.
 ## Family
 _________________
 _________________
-<p align="center">
-<img src="https://zabaldwin.github.io/files/Bailey_Cinnabun_Me.JPG" alt="Photo" style="width: 150px;"/>
-</p>
+
 <p align="center">
 <img src="https://zabaldwin.github.io/images/IMG_8122.PNG" alt="Photo" style="width: 150px;"/>
 </p>
