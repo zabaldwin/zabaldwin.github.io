@@ -25,7 +25,7 @@ Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.
 
 During 2019, I recieved my Bachelor of Science degree from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
 
-<p align="right">
+<p align="left">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.13.19 AM.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
@@ -41,7 +41,7 @@ physics experiments.
 
 After working on these simulations, I helped build a prototype and test ran it on the [Mainzer Mikrotron (MAMI)](https://www.blogs.uni-mainz.de/fb08-nuclear-physics/accelerators-mami-mesa/the-mainz-microtron/) at [Johannes Gutenberg University in Mainz, Germany](https://www.uni-mainz.de). 
 
-<p align="right">
+<p align="left">
   <img src="https://zabaldwin.github.io/files/JohannesGuttenburg_Mainz.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
