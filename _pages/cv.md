@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV.pdf) 
+[Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV_2022.pdf) 
 
-Updated: April, 2021
+Updated: June, 2022
 
 Education
 ======
 * Honors B.S. in Physics and Mathematics, The College of William and Mary, 2019
-* Ph.D in Nuclear and Particle Physics, Carnegie Mellon University, 2025 (expected)
+* Ph.D in Nuclear and Particle Physics, Carnegie Mellon University, 2026 (expected)
 
 
