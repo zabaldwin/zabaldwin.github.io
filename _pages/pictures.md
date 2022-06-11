@@ -13,7 +13,7 @@ _________________
 _________________
 
 <p align="center">
-<img src="https://zabaldwin.github.io/images/IMG_8122.PNG" alt="Photo" style="width: 200px;"/>
+<img src="https://zabaldwin.github.io/images/IMG_8122.pdf" alt="Photo" style="width: 200px;"/>
 </p>
 _____________________
 <p align="center">
