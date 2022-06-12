@@ -4,8 +4,7 @@ permalink: /pictures/
 author_profile: true
 ---
 
-
-<center>Here are some of the great memories I have had, with even greater people.</center>
+Here are some of the great memories I have had, with even greater people.
 
 ## Family
 _________________
