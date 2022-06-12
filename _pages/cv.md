@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-Education
+<title> Education <\title>
 
 * Honors B.S. in Physics and Mathematics, The College of William and Mary, 2019
 * Ph.D in Nuclear and Particle Physics, Carnegie Mellon University, 2026 (expected)
