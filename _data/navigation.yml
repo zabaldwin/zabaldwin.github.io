@@ -8,11 +8,17 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
+ 
+  - title: "Physics"
+    url: /physics/   
     
   - title: "Teachings"
     url: /teachings/  
-    
+ 
+ 
+ 
+ 
   - title: "Pictures"
     url: /pictures/  
     
