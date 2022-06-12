@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "[Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV-3.pdf) "
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV-3.pdf) 
 
 Updated: June, 2022
 
