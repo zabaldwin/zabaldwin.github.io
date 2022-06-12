@@ -52,8 +52,8 @@ My area of research is searching for the existence of exotic hybrid mesons, part
 
 <p align="center">
   <img src="https://zabaldwin.github.io/Pi0EtaChannel-DNP.png" alt="Photo" style="width: 350px;"/>
-  <img src="https://zabaldwin.github.io/Pi0EtaPrimeChannel_DNP.png" alt="Photo" style="width: 350px;"/>
-  <img src="https://zabaldwin.github.io/COSTHETA-DNP.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/Pi0EtarimeChannel_DNP.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/COSTHETA-DNP.png" alt="Photo" style="width: 550px;"/>
 </p>
 <p align="center">
 Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
