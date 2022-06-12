@@ -4,7 +4,7 @@ permalink: /physics/
 author_profile: true
 ---
 
-Page to relevant physics concepts and derivations coming soon.
+<center>Page to relevant physics concepts and derivations coming soon.</center>
 
 
 
