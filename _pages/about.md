@@ -15,7 +15,7 @@ I grew up in the foothills of the Appalachian Mountains in an small, rural town 
 </p>
 
 
-Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.cmu.edu/physics/) at [Carnegie Mellon University](https://www.cmu.edu/) working on the [GlueX](https://en.wikipedia.org/wiki/GlueX) experiment at the  Thomas Jefferson National Accelerator Facility. My advisor is Professor [Curtis Meyer](https://www.cmu.edu/physics/people/faculty/meyer.html), spokesperson of GlueX.
+Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.cmu.edu/physics/) at [Carnegie Mellon University](https://www.cmu.edu/) working on the [GlueX](https://en.wikipedia.org/wiki/GlueX) experiment at the Thomas Jefferson National Accelerator Facility. My advisor is Professor [Curtis Meyer](https://www.cmu.edu/physics/people/faculty/meyer.html), spokesperson of GlueX.
 
 
 <p align="left">
@@ -23,7 +23,7 @@ Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-During 2019, I recieved my Bachelor of Science degree from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
+During 2019, I recieved my Bachelor of Science degree from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
 
 <p align="right">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.13.19 AM.png
@@ -48,13 +48,12 @@ After working on these simulations, I helped build a prototype and test ran it o
 
 Current Research
 ======
-My area of research is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta'$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be shown as to allow for a better understanding of meson production mechanisms. Implementing a partial wave analysis will provide information as to what the exotic hybrid candidate with spin exotic-signature is.
+My area of research is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta'$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$   (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be shown as to allow for a better understanding of meson production mechanisms. Implementing a partial wave analysis will provide information as to what the exotic hybrid candidate with spin exotic-signature is. For more information on this and other similar topics, please email me or click on the navigation link in the header.
 
 <p align="center">
-  <img src="https://zabaldwin.github.io/Pi0EtaChannel.png" alt="Photo" style="width: 350px;"/>
-  <img src="https://zabaldwin.github.io/Pi0EtaPrimeChannel.png" alt="Photo" style="width: 350px;"/>
-  <img src="https://zabaldwin.github.io/CosThetaGJ_Pi0Eta.png" alt="Photo" style="width: 350px;"/>
-  <img src="https://zabaldwin.github.io/CosThetaGJ_Pi0EtaPrime.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/Pi0EtaChannel-DNP.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/Pi0EtaPrimeChannel-DNP.png" alt="Photo" style="width: 350px;"/>
+  <img src="https://zabaldwin.github.io/COSTHETA-DNP.png" alt="Photo" style="width: 350px;"/>
 </p>
 <p align="center">
 Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
