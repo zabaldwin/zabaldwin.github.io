@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV_2022.pdf) 
+[Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV-3.pdf) 
 
 Updated: June, 2022
 
