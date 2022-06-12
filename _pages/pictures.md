@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Here are some of the great memories I have had, with even greater people.
+<center>Here are some of the great memories I have had, with even greater people.</center>
 
 ## Family
 _________________
