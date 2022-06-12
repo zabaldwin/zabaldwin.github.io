@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /teachings/
+permalink: /GlueX/
 author_profile: true
 ---
 
-<center> No official classroom teaching experience, yet. </center>
+<center> Description of the GlueX experiment coming soon. </center>
