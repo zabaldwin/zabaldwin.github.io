@@ -3,7 +3,8 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-GLUEX EXPERIMENT: 
+<center>GLUEX EXPERIMENT</center> 
+======
 
 [Search for photoproduction of axion-like particles at GlueX](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.052007) Physical Review D (Vol. 105, Issue 2)
 
