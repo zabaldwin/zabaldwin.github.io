@@ -1,23 +1,16 @@
 ---
 layout: archive
-title: "Invited Talks"
-permalink: /invitedtalks/
-author_profile: true
----
-
----
-layout: archive
 title: "National & International Conference Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
 
-{% if site.talkmap_link == true %}
+{if site.talkmap_link == true}
 
 <p style="color: #1aa7ec; text-align: center;"><a href="/talkmap.html">See a map of all the places I've given a talk or performed research!</a></p>
 
-{% endif %}
+{endif}
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
