@@ -12,7 +12,7 @@ redirect_from:
 * Ph.D in Nuclear and Particle Physics, Carnegie Mellon University, 2026 (expected)
 
 _________________
-[Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV-3.pdf)
+[Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV_Baldwin_2023.pdf)
 Updated: June, 2022
 
 
