@@ -13,6 +13,6 @@ redirect_from:
 
 _________________
 [Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV_Baldwin_2023.pdf)
-Updated: January, 2022
+Updated: January, 2023
 
 
