@@ -1,5 +1,3 @@
-<center><strong>Colloquium Talk</strong></center>
-
 ---
 title: Enhancing Scientific Research Utilizing High-Performance & High-Throughput Computing: An Overview With Uses In Nuclear & Particle Physics
 collection: talks
