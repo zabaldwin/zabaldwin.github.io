@@ -1,6 +1,5 @@
 <center><strong>Colloquium Talks</strong></center>
 
-_________________
 
 ---
 title: Enhancing Scientific Research Utilizing High-Performance And High-Throughput Computing- An Overview With Uses In Nuclear And Particle Physics
@@ -11,3 +10,4 @@ date: 2022-10-20
 location: "Union College, Schenectady, New York"
 ---
 
+_________________
