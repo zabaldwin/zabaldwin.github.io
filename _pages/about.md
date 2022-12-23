@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I grew up in the foothills of the Appalachian Mountains inbetween two very small, rural towns called Meadowview and Abingdon. They are both near the boarder of Virgina and Tennessee. I always like to joke that there were more cows than there were people.
+I grew up in the foothills of the Appalachian Mountains in a <em>holler</em> inbetween two very small, rural towns called Meadowview and Abingdon. They are both near the boarder of Virgina and Tennessee. I always like to joke that there were more cows than there were people.
 
 <p align="right">
   <img src="https://zabaldwin.github.io/files/Meadowview.png" alt="Photo" style="width: 250px;"/> 
