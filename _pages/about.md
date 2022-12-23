@@ -71,7 +71,7 @@ After working on these simulations, I helped build a prototype and test ran it o
 
 Current Research
 ======
-<hr>
+
 My area of research is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta'$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$ (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be shown as to allow for a better understanding of meson production mechanisms. Implementing a partial wave analysis will provide information as to what the exotic hybrid candidate with spin exotic-signature is. For more information on this and other similar topics, please email me or click on the physics navigation link in the header.
 
 <p align="center">
@@ -82,4 +82,6 @@ My area of research is searching for the existence of exotic hybrid mesons, part
 Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
 </p>
 
-
+An article was recently written about the talks myself and several other young scientists' gave about our research in Madison, Wisonsin. 
+The talks focused on how each of us utilized High-Throughput Computing in our specific research topics and scientific disciplines.
+A link to the article can be found here through the <a href="https://osg-htc.org/spotlights/Lightning-Talks.html">Open Science Grid</a> website.
