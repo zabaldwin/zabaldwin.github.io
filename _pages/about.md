@@ -83,5 +83,5 @@ Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems
 </p>
 
 An article was recently written about the talks myself and several other young scientists' gave about our research in Madison, Wisonsin. 
-The talks focused on how each of us utilized High-Throughput Computing in our specific research topics and scientific disciplines.
+The talks focused on how each of us utilized High-Throughput Computing in our specific fields and scientific disciplines.
 A link to the article can be found here through the <a href="https://osg-htc.org/spotlights/Lightning-Talks.html">Open Science Grid</a> website.
