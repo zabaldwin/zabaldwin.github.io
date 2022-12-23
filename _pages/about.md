@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I grew up in the foothills of the Appalachian Mountains in an small, rural town called Abingdon. It is near the boarder of Virgina and Tennessee.
+I grew up in the foothills of the Appalachian Mountains inbetween two very small, rural towns called Meadowview and Abingdon. They are both near the boarder of Virgina and Tennessee. I always like to joke that there are more cows than there were people.
 
 <p align="right">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.05.57 AM.png" alt="Photo" style="width: 250px;"/> 
@@ -22,15 +22,19 @@ Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-During 2019, I recieved my Bachelor of Science degree from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
+Since High Energy and Nuclear Physics are begining to gather vast amounts of data (to the orders of petabytes), the need to increase speed and performance power for all computations in these fields is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools to further develop my skills and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.
+## High-Performace Computing
+
+## High-Throughput Computing
+
+During 2019, I recieved my Bachelor of Science degrees from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
 
 <p align="right">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.13.19 AM.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-Starting in 2018, I was granted the opportunity to become a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/). I worked on machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron
-physics experiments. 
+Starting in 2018, I was granted the opportunity to become a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/). I worked on machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron physics experiments. 
 
 
 <p align="left">
@@ -44,6 +48,8 @@ After working on these simulations, I helped build a prototype and test ran it o
   <img src="https://zabaldwin.github.io/files/JohannesGuttenburg_Mainz.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
+
+
 
 Current Research
 ======
