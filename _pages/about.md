@@ -24,7 +24,7 @@ Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.
 " alt="Photo" style="width: 250px;"/> 
 </p>
   
-During 2019, I recieved my Bachelor of Science degrees from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
+During 2019, I recieved my Bachelor of Science degrees from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor [Justin Stevens](https://www.jlab.org/people/Justin_Stevens_Scientific_User_and_Professor) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
 
 <p align="right">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.13.19 AM.png
