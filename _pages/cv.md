@@ -9,7 +9,9 @@ redirect_from:
 
 
 * Honors B.S. in Physics and Mathematics, The College of William and Mary, 2019
+** Advisor: Justin Stevens
 * Ph.D in Nuclear and Particle Physics, Carnegie Mellon University, 2026 (expected)
+* ** Advisor: Curtis Meyer
 
 _________________
 Updated: January, 2023  
