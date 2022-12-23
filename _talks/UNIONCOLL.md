@@ -3,8 +3,9 @@ title: Enhancing Scientific Research Utilizing High-Performance And High-Through
 collection: talks
 type: "Union College"
 permalink: /talks/UNIONCOLL
+venue: "Schenectady"
 date: 2022-10-20
-location: "Schenectady, New York"
+location: "New York"
 ---
 <center><strong>Colloquium Talk</strong></center>  
 <hr>
