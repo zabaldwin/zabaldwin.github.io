@@ -51,20 +51,20 @@ The need to increase the speed and performance for all computations (whether the
 
 ### High-Performace Computing School -- Athens, Greece
 
-<p align="center">
+<p align="center">  
   <img src="https://zabaldwin.github.io/files/SponsorsIHPC.png
 " alt="Photo" style="width: 250px;"/>  
   <img src="https://zabaldwin.github.io/files/IHPCSSchool.png
-" alt="Photo" style="width: 250px;"/> 
+" alt="Photo" style="width: 250px;"/>  
 </p>
 
 ### High-Throughput Computing School -- Madison, Wisconsin
 
-<p align="center">
+<p align="center">  
   <img src="https://zabaldwin.github.io/files/SponsorOSG.png
 " alt="Photo" style="width: 250px;"/>   
   <img src="https://zabaldwin.github.io/files/OsgUserSchool.png
-" alt="Photo" style="width: 250px;"/> 
+" alt="Photo" style="width: 250px;"/>  
 </p>
 <hr>
 
