@@ -6,5 +6,4 @@ permalink: /talks/UNIONCOLL
 venue: "Union College"
 date: 2022-10-20
 location: "Schenectady, New York"
----
 _________________
