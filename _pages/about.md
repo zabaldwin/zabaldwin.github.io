@@ -23,9 +23,31 @@ Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.
 </p>
 
 Since High Energy and Nuclear Physics are begining to gather vast amounts of data (to the orders of petabytes), the need to increase speed and performance power for all computations in these fields is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools to further develop my skills and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.
-### High-Performace Computing
+### High-Performace Computing School 
+<p align="left">
+  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.28.34 AM.png
+" alt="Photo" style="width: 250px;"/> 
+</p>
+<p align="center">
+  Athens, Greece
+</p>
+<p align="right">
+  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.28.34 AM.png
+" alt="Photo" style="width: 250px;"/> 
+</p>
 
-### High-Throughput Computing
+### High-Throughput Computing School
+<p align="left">
+  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.28.34 AM.png
+" alt="Photo" style="width: 250px;"/> 
+</p>
+<p align="center">
+  Madison, Wisconsin
+</p>
+<p align="right">
+  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.28.34 AM.png
+" alt="Photo" style="width: 250px;"/> 
+</p>
 
 During 2019, I recieved my Bachelor of Science degrees from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
 
