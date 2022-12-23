@@ -3,8 +3,7 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-<center><strong>GLUEX EXPERIMENT</strong></center>
-
+<center><strong>GLUEX EXPERIMENT</strong></center>  
 _________________
 
 
