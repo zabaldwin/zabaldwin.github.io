@@ -23,28 +23,6 @@ Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.
 " alt="Photo" style="width: 250px;"/> 
 </p>
   
-<hr>
-The need to increase the speed and performance for all computations (whether theorertical or experimental) within High Energy and Nuclear Physics is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools in 2022 to further develop my skills and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.  
-
-### High-Performace Computing School -- Athens, Greece
-
-<p align="right">
-  <img src="https://zabaldwin.github.io/files/SponsorsIHPC.png
-" alt="Photo" style="width: 250px;"/>
-  <img src="https://zabaldwin.github.io/files/IHPCSSchool.png
-" alt="Photo" style="width: 250px;"/> 
-</p>
-
-### High-Throughput Computing School -- Madison, Wisconsin
-
-<p align="right">
-  <img src="https://zabaldwin.github.io/files/SponsorOSG.png
-" alt="Photo" style="width: 250px;"/> 
-  <img src="https://zabaldwin.github.io/files/OsgUserSchool.png
-" alt="Photo" style="width: 250px;"/> 
-</p>
-<hr>
-  
 During 2019, I recieved my Bachelor of Science degrees from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
 
 <p align="left">
@@ -67,6 +45,26 @@ After working on these simulations, I helped build a prototype and test ran it o
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
+<hr>
+The need to increase the speed and performance for all computations (whether theorertical or experimental) within High Energy and Nuclear Physics is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools in 2022 to further develop my skills and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.  
+
+### High-Performace Computing School -- Athens, Greece
+
+<p align="right">
+  <img src="https://zabaldwin.github.io/files/SponsorsIHPC.png
+" alt="Photo" style="width: 250px;"/>
+  <img src="https://zabaldwin.github.io/files/IHPCSSchool.png
+" alt="Photo" style="width: 250px;"/> 
+</p>
+
+### High-Throughput Computing School -- Madison, Wisconsin
+
+<p align="right">
+  <img src="https://zabaldwin.github.io/files/SponsorOSG.png
+" alt="Photo" style="width: 250px;"/> 
+  <img src="https://zabaldwin.github.io/files/OsgUserSchool.png
+" alt="Photo" style="width: 250px;"/> 
+</p>
 <hr>
 
 Current Research
