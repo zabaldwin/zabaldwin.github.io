@@ -73,7 +73,7 @@ Current Research
 My area of research is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta'$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$ (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be shown as to allow for a better understanding of meson production mechanisms. Implementing a partial wave analysis will provide information as to what the exotic hybrid candidate with spin exotic-signature is. For more information on this and other similar topics, please email me or click on the physics navigation link in the header.
 
 <p align="center">
-  <img src="https://zabaldwin.github.io/Screen Shot 2022-06-12 at 12.54.48 AM.png" alt="Photo" style="width: 550px;"/> 
+  <img src="https://zabaldwin.github.io/Screen Shot 2022-06-12 at 12.54.48 AM.png" alt="Photo" style="width: 550px;"/>   
   <img src="https://zabaldwin.github.io/COSTHETA-DNP.png" alt="Photo" style="width: 550px;"/>
 </p>
 <p align="center">
