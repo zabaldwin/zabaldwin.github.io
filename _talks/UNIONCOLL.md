@@ -7,4 +7,5 @@ venue: "Union College"
 date: 2022-10-20
 location: "Schenectady, New York"
 ---
-_________________
+<center><strong>Colloquium Talk</strong></center>  
+_________________  
