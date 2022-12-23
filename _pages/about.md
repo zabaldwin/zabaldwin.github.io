@@ -23,50 +23,42 @@ Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.
 </p>
 
 Since High Energy and Nuclear Physics are begining to gather vast amounts of data (to the orders of petabytes), the need to increase speed and performance power for all computations in these fields is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools to further develop my skills and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.
-### High-Performace Computing School 
-<p align="left">
-  <img src="https://zabaldwin.github.io/files/SponsorsIHPC.png
-" alt="Photo" style="width: 250px;"/> 
-</p>
-<p align="center">
-  Athens, Greece
-</p>
+### High-Performace Computing School -- Athens, Greece
+
 <p align="right">
+  <img src="https://zabaldwin.github.io/files/SponsorsIHPC.png
+" alt="Photo" style="width: 250px;"/>
   <img src="https://zabaldwin.github.io/files/IHPCSSchool.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-### High-Throughput Computing School
-<p align="left">
-  <img src="https://zabaldwin.github.io/files/SponsorsOSG.png
-" alt="Photo" style="width: 250px;"/> 
-</p>
-<p align="center">
-  Madison, Wisconsin
-</p>
+### High-Throughput Computing School -- Madison, Wisconsin
+
 <p align="right">
-  <img src="https://zabaldwin.github.io/files/OsgSchool.png
+  <img src="https://zabaldwin.github.io/files/SponsorOSG.png
+" alt="Photo" style="width: 250px;"/> 
+  <img src="https://zabaldwin.github.io/files/OsgUserSchool.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
 During 2019, I recieved my Bachelor of Science degrees from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor [Justin Stevens](https://www.wm.edu/as/physics/people/fulltimefaculty/stevens_j.php) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
 
-<p align="right">
+<p align="left">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.13.19 AM.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-Starting in 2018, I was granted the opportunity to become a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/). I worked on machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron physics experiments. 
+Starting in 2018, I was granted the opportunity to become a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/). I worked on developing brand new approachs using machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron physics experiments. 
 
 
-<p align="left">
+<p align="right">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.22.30 AM.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
 After working on these simulations, I helped build a prototype and test ran it on the [Mainzer Mikrotron (MAMI)](https://www.blogs.uni-mainz.de/fb08-nuclear-physics/accelerators-mami-mesa/the-mainz-microtron/) at [Johannes Gutenberg University in Mainz, Germany](https://www.uni-mainz.de). 
 
-<p align="right">
+<p align="left">
   <img src="https://zabaldwin.github.io/files/JohannesGuttenburg_Mainz.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
