@@ -13,7 +13,10 @@ redirect_from:
 
 _________________
 Updated: January, 2023  
-<center> [Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV_Baldwin_2023.pdf) </center> 
+<p align="right">
+  [Curriculum Vitae](http://zabaldwin.github.io/files/Gradschool_CV_Baldwin_2023.pdf)
+</p>
+
 
 
 
