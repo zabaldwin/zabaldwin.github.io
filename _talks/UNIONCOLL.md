@@ -8,4 +8,4 @@ date: 2022-10-20
 location: "Schenectady, New York"
 ---
 <center><strong>Colloquium Talk</strong></center>  
-_________________  
+  _________________  
