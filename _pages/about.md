@@ -31,7 +31,7 @@ During 2019, I recieved my Bachelor of Science degrees from [The College of Will
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-Starting in 2018, I was granted the opportunity to become a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/). I worked on developing brand new approachs using machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron physics experiments. It is stated that this polarimeter could do for hadron spectroscopy what the Hubble Telescope did for astronomy.
+Starting in 2018, I was granted the opportunity to become a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/) in Glasgow, Scotland. I worked on developing brand new approachs using machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron physics experiments. It is stated that this polarimeter could do for hadron spectroscopy what the Hubble Telescope did for astronomy.
 
 
 <p align="left">
@@ -39,7 +39,7 @@ Starting in 2018, I was granted the opportunity to become a research assistant f
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-After working on these simulations, I helped build a prototype and test ran it on the [Mainzer Mikrotron (MAMI)](https://www.blogs.uni-mainz.de/fb08-nuclear-physics/accelerators-mami-mesa/the-mainz-microtron/) at [Johannes Gutenberg University in Mainz, Germany](https://www.uni-mainz.de). 
+After working on these simulations, I helped build a prototype and test ran it on the [Mainzer Mikrotron (MAMI)](https://www.blogs.uni-mainz.de/fb08-nuclear-physics/accelerators-mami-mesa/the-mainz-microtron/) at [Johannes Gutenberg University](https://www.uni-mainz.de) in Mainz, Germany. 
 
 <p align="right">
   <img src="https://zabaldwin.github.io/files/JohannesGuttenburg_Mainz.png
