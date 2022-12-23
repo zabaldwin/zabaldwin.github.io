@@ -23,7 +23,8 @@ Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.
 </p>
   
 <hr>
-Since High Energy and Nuclear Physics are begining to gather vast amounts of data (to the orders of petabytes), the need to increase speed and performance power for all computations in these fields is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools to further develop my skills and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.
+The need to increase the speed and performance for all computations (whether theorertical or experiment) within High Energy and Nuclear Physics is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools in 2022 to further develop my skills and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.  
+
 ### High-Performace Computing School -- Athens, Greece
 
 <p align="right">
