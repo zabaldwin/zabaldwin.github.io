@@ -3,9 +3,11 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-GlueX Experiment 
-======
+
 <p align="center">
+  <font size=5>
+  GlueX Experiment 
+  </font>
   <img src="https://zabaldwin.github.io/files/GlueXLogo.pdf" alt="Photo" style="width: 250px;"/>   
 </p>
 
