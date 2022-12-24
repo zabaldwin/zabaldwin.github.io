@@ -3,7 +3,7 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-<hr>
+
 <p align="center">
   <img src="https://zabaldwin.github.io/files/GlueXLogo.pdf" alt="Photo" style="width: 150px;"/>   
 </p>
