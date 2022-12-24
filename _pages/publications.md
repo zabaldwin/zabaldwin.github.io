@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://zabaldwin.github.io/files/GlueXLogo.pdf" alt="Photo" style="width: 150px;"/>   
 </p>
 <strong>Measurement of Spin Density Matrix Elements in &lambda;(1520) Photoproduction at 8.2 GeV to 8.8 GeV</strong>  
