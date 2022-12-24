@@ -16,7 +16,7 @@ I grew up in the foothills of the Appalachian Mountains in a <em>holler</em> inb
 </p>
 
 
-Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.cmu.edu/physics/) at [Carnegie Mellon University](https://www.cmu.edu/) working on the [GlueX](https://en.wikipedia.org/wiki/GlueX) experiment at the Thomas Jefferson National Accelerator Facility. My advisor is Professor [Curtis Meyer](https://www.cmu.edu/physics/people/faculty/meyer.html), spokesperson of GlueX.
+Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.cmu.edu/physics/) at [Carnegie Mellon University](https://www.cmu.edu/) working on the [GlueX](https://en.wikipedia.org/wiki/GlueX) experiment at the Thomas Jefferson National Accelerator Facility. My advisor is Professor Curtis Meyer, spokesperson of GlueX.
 
 
 <p align="left">
@@ -24,14 +24,14 @@ Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.
 " alt="Photo" style="width: 250px;"/> 
 </p>
   
-During 2019, I recieved my Bachelor of Science degrees from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor [Justin Stevens](https://www.jlab.org/people/Justin_Stevens_Scientific_User_and_Professor) from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
+During 2019, I recieved my Bachelor of Science degrees from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor Justin Stevens from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
 
 <p align="right">
   <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.13.19 AM.png
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-Starting in 2018, I was granted the opportunity to become a research assistant for Dr. [Ken Livingston](http://nuclear.gla.ac.uk/infoWrapper.php?surname=Livingston) at the [University of Glasgow](https://www.gla.ac.uk/) in Glasgow, Scotland. I worked on developing brand new approachs using machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron physics experiments. It is stated that this polarimeter could do for hadron spectroscopy what the Hubble Telescope did for astronomy.
+Starting in 2018, I was granted the opportunity to become a research assistant for Dr. Ken Livingston at the [University of Glasgow](https://www.gla.ac.uk/) in Glasgow, Scotland. I worked on developing brand new approachs using machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron physics experiments. It is stated that this polarimeter could do for hadron spectroscopy what the Hubble Telescope did for astronomy.
 
 
 <p align="left">
