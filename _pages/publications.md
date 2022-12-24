@@ -3,12 +3,10 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-
+<hr>
 <p align="center">
   <img src="https://zabaldwin.github.io/files/GlueXLogo.pdf" alt="Photo" style="width: 150px;"/>   
 </p>
-<hr>
-
 <strong>Measurement of Spin Density Matrix Elements in &lambda;(1520) Photoproduction at 8.2 GeV to 8.8 GeV</strong>  
 Published in <em> Physical Review C </em> -- March, 2022
   * DOI: [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.052007](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.035201)
