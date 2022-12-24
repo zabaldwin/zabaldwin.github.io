@@ -8,6 +8,9 @@ author_profile: true
   <font size=5>
   GlueX Experiment 
   </font>
+</p>
+
+<p align="center">
   <img src="https://zabaldwin.github.io/files/GlueXLogo.pdf" alt="Photo" style="width: 250px;"/>   
 </p>
 
