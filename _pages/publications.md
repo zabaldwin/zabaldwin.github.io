@@ -14,7 +14,7 @@ GlueX Experiment
   * DOI: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.035201
   * arXiv: https://arxiv.org/abs/2107.12314
 
-<strong>Measurement of beam asymmetry for &pi;<sup>-</sup>&Delta;<sup>++</sup> π−∆++ photoproduction on the proton at E<sub>&gamma</sub>=8.5 GeV -- Physical Review C (Vol. 103, Issue 2)</strong>
+<strong>Measurement of beam asymmetry for &pi;<sup>-</sup>&Delta;<sup>++</sup> photoproduction on the proton at E<sub>&gamma</sub>=8.5 GeV -- Physical Review C (Vol. 103, Issue 2)</strong>
   * DOI: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.L022201
   * arXiv: https://arxiv.org/abs/2009.07326
 
