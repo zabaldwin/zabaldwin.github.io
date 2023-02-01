@@ -9,13 +9,15 @@ redirect_from:
 
 * Ph.D in Nuclear and Particle Physics, Carnegie Mellon University - 2026 (expected)  
   * Advisor: Curtis Meyer  
-    * Graduate Research Associate (2019-Present)
+    * Graduate Research Associate 
 * Honors B.S. in Physics and Mathematics, The College of William and Mary - 2019  
   * Advisor: Justin Stevens  
-    * William and Mary Honors Fellow (2018-2019)
-    * Wren Scholar (2015-2019)
+    * William and Mary Honors Fellow 
+    * Wren Scholar 
+<hr>
 * Visiting Researcher, The University of Glasgow - 2018
   * Advisor: Ken Livingston
+<hr>
 <hr>
 Updated: January, 2023  
 
