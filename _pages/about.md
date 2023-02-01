@@ -39,7 +39,7 @@ Starting in 2018, I was granted the opportunity to become a research assistant f
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
-After working on these simulations, I helped build a prototype and test ran it on the [Mainzer Mikrotron (MAMI)](https://www.blogs.uni-mainz.de/fb08-nuclear-physics/accelerators-mami-mesa/the-mainz-microtron/) at [Johannes Gutenberg University](https://www.uni-mainz.de) in Mainz, Germany. 
+After working on these simulations, I helped with the development of a prototype and test ran it on the [Mainzer Mikrotron (MAMI)](https://www.blogs.uni-mainz.de/fb08-nuclear-physics/accelerators-mami-mesa/the-mainz-microtron/) at [Johannes Gutenberg University](https://www.uni-mainz.de) in Mainz, Germany. 
 
 <p align="right">
   <img src="https://zabaldwin.github.io/files/JohannesGuttenburg_Mainz.png
@@ -81,6 +81,6 @@ My area of research is searching for the existence of exotic hybrid mesons, part
 Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
 </p>
 
-An article was recently written about the talks myself and several other young scientists' gave about our research in Madison, Wisonsin. 
+An article was recently written about the talks myself and several other young scientists gave about our research in Madison, Wisonsin. 
 The talks focused on how each of us utilized High-Throughput Computing in our specific fields and scientific disciplines.
 A link to the article can be found here through the <a href="https://osg-htc.org/spotlights/Lightning-Talks.html">Open Science Grid</a> website.
