@@ -23,7 +23,7 @@ Updated: January, 2023
 
 <p align="center">
   <font size="5">
-  <a href="http://zabaldwin.github.io/files/ZacharyBaldwin_CV_Jan2023.pdf">Curriculum Vitae</a>
+  <a href="http://zabaldwin.github.io/files/Baldwin_CV_2023.pdf">Curriculum Vitae</a>
   </font>
 </p>
 
