@@ -15,7 +15,7 @@ redirect_from:
     * William and Mary Honors Fellow 
     * Wren Scholar 
 <hr>
-* Visiting Researcher, The University of Glasgow - 2018
+* Visiting Student Researcher, The University of Glasgow - 2018
   * Advisor: Ken Livingston
 <hr>
 <hr>
