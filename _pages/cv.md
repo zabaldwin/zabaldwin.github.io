@@ -19,11 +19,11 @@ redirect_from:
   * Advisor: Ken Livingston
 <hr>
 <hr>
-Updated: January, 2023  
+Updated: February, 2024  
 
 <p align="center">
   <font size="5">
-  <a href="http://zabaldwin.github.io/files/Baldwin_CV_2023.pdf">Curriculum Vitae</a>
+  <a href="http://zabaldwin.github.io/files/Baldwin_CV_2024.pdf">Curriculum Vitae</a>
   </font>
 </p>
 
