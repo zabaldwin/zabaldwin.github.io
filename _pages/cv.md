@@ -9,7 +9,8 @@ redirect_from:
 
 * Ph.D in Nuclear and Particle Physics, Carnegie Mellon University - 2026 (expected)  
   * Advisor: Curtis Meyer  
-    * Graduate Research Associate 
+    * Graduate Research Associate
+    * Office of Science Graduate Student Research (SCGSR) Fellow
 * Honors B.S. in Physics and Mathematics, The College of William and Mary - 2019  
   * Advisor: Justin Stevens  
     * William and Mary Honors Fellow 
