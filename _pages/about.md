@@ -66,10 +66,10 @@ The need to increase the speed and performance for all computations (whether the
   <img src="https://zabaldwin.github.io/files/OsgUserSchool.png
 " alt="Photo" style="width: 250px;"/>  
 </p>
-<hr>
 
 ### Computational and Data Science Training for High Energy Physics -- Princeton, New Jersey
 
+<hr>
 
 Current Research
 ======
