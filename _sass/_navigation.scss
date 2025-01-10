@@ -196,8 +196,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: #141414;//$primary-color;
-    color: $primary-color;//#1a578f;//#141414; #fff;
+    background-color: #$primary-color;
+    color: #141414; //#fff;
     cursor: pointer;
     border-radius: 8px;
   }
