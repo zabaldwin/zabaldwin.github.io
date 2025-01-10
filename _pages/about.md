@@ -46,6 +46,8 @@ After working on these simulations, I helped with the development of a prototype
 " alt="Photo" style="width: 250px;"/> 
 </p>
 
+Research Interests
+======
 <hr>
 The need to increase the speed and performance for all computations (whether theoretical or experimental) within High Energy and Nuclear Physics is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools in 2022 and one in 2024 to further develop my skills, present on my current work on the topics, and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.  
 
