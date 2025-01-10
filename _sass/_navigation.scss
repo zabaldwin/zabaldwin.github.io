@@ -197,7 +197,7 @@
     border: 0;
     outline: none;
     background-color: #141414;//$primary-color;
-    color: #fff;//#1a578f;//#141414; #fff;
+    color: $primary-color;//#1a578f;//#141414; #fff;
     cursor: pointer;
     border-radius: 8px;
   }
