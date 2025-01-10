@@ -87,9 +87,9 @@ analytics:
 author:
   name             : "Zachary Baldwin"
   avatar           : "ProfilePicture_Suit.jpg"
-  bio              : "Ph.D. candidate in hadronic physics at Carnegie Mellon University"
+  bio              : "Ph.D. candidate in hadronic physics"
   location         : "Pittsburgh, Pa"
-  employer         :
+  employer         : "Carnegie Mellon University"
   pubmed           : 
   googlescholar    : "citations?user=MMtJibQAAAAJ&hl=en"
   email            : "zbaldwin@andrew.cmu.edu" 
