@@ -314,7 +314,7 @@ body:hover .visually-hidden button {
   position: relative;
   width: $navicon-width;
   height: $navicon-height;
-  background: #141414;//fff;
+  background: #1a578f;//fff;
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -326,19 +326,19 @@ body:hover .visually-hidden button {
     left: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: #141414;//fff;
+    background: #1a578f;//#141414;//fff;
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
 
   &:before {
     top: (-2 * $navicon-height);
-    background: #141414;//fff;
+    background: #1a578f;//#141414;//fff;
   }
 
   &:after {
     bottom: (-2 * $navicon-height);
-    background: #141414;//fff;
+    background: #1a578f;//#141414;//fff;
   }
 }
 
