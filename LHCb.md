@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Works"
-permalink: /works/
+title: "LHCb"
+permalink: /LHCb/
 author_profile: true
 ---
