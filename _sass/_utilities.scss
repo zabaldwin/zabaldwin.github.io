@@ -314,7 +314,7 @@ body:hover .visually-hidden button {
   position: relative;
   width: 30px;//$navicon-width;
   height: 4px;//$navicon-height;
-  background: #141414;//fff;
+  background: #fff;
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -357,7 +357,7 @@ body:hover .visually-hidden button {
             transform-origin: 50% 50%;
     top: 0;
     width: $navicon-width;
-    background: #141414;//ffff
+    background: #ffff;
     border-radius: 8px;
   }
 
@@ -365,14 +365,14 @@ body:hover .visually-hidden button {
   &:before{
     -webkit-transform: rotate3d(0,0,1,45deg);
             transform: rotate3d(0,0,1,45deg);
-            background: #141414;//fff;
+            background: #fff;
             border-radius: 8px;
            
   }
   &:after{
     -webkit-transform: rotate3d(0,0,1,-45deg);
             transform: rotate3d(0,0,1,-45deg);
-            background: #141414;//fff;
+            background: #fff;
             border-radius: 8px;
             
   }
