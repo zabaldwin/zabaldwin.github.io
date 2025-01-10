@@ -318,7 +318,6 @@ body:hover .visually-hidden button {
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  border-radius: 8px;
 
   &:before,
   &:after {
@@ -353,7 +352,6 @@ body:hover .visually-hidden button {
     top: 0;
     width: $navicon-width;
     background: #1aa7ec;//#141414;
-    border-radius: 8px;
   }
 
   /* rotate the lines to form the x shape*/
