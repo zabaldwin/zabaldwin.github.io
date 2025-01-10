@@ -26,7 +26,7 @@
         <li class="author__desktop"><i class="fas fa-fw fa-university" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fa" aria-hidden="true"></i> <span style="padding-left: 1em;">{{ author.location }}</span> </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
