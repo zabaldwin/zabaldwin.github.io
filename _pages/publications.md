@@ -14,7 +14,7 @@ author_profile: true
 <details>
   
   <summary style="cursor: pointer; font-weight: bold; font-size: 2rem; display: flex; align-items: center;">
-    <span style="color: #0047ab;">Glu</span><span style="color: #ff0000;">eX </span>  Associated Publications
+    <span style="color: #0047ab;">Glu</span><span style="color: #ff0000;">eX </span> <span style="margin-left: 10px;">Associated Publications</span> 
   </summary>
   <div style="margin-left: 40px; margin-top: 10px;">
     <details>
@@ -80,7 +80,7 @@ author_profile: true
 
 <details>
   <summary style="cursor: pointer; font-weight: bold; font-size: 2rem; display: flex; align-items: center;">
-    <span style="color: #89cff0;">LHCb </span>  Associated Publications
+    <span style="color: #89cff0;">LHCb </span> <span style="margin-left: 10px;">Associated Publications</span>
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
     <details>
