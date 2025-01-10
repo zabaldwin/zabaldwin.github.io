@@ -59,7 +59,7 @@
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
     z-index: 10;
-    background-color: #a9a9a9;
+    background-color: #a41200;//#a9a9a9;
   }
 
   @include breakpoint($x-large) {
@@ -230,7 +230,7 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: #a41200;
+    color: inherit;//#a41200;
     font-size: $type-size-5;
     text-decoration: none;
 
