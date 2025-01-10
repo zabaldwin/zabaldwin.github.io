@@ -86,10 +86,9 @@ analytics:
 # Site Author
 author:
   name             : "Zachary Baldwin"
-  avatar           : "ProfilePictureNew.jpg"
+  avatar           : "ProfilePicture_Suit.jpg"
   bio              : "Ph.D. candidate in hadronic physics at Carnegie Mellon University"
-  location         : "Pittsburgh, Pa
-  "
+  location         : "Pittsburgh, Pa"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -108,7 +107,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zachary-b-826a291b5/"
   orcid            : "https://orcid.org/0000-0002-8534-0922"
   pinterest        :
   soundcloud       :
