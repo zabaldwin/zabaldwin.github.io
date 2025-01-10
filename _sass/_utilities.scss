@@ -312,9 +312,9 @@ body:hover .visually-hidden button {
 
 .navicon {
   position: relative;
-  width: 30px;//$navicon-width;
-  height: 4px;//$navicon-height;
-  background: #fff;
+  width: $navicon-width;
+  height: $navicon-height;
+  background: #141414; //#fff;
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -325,24 +325,19 @@ body:hover .visually-hidden button {
     content: "";
     position: absolute;
     left: 0;
-    width:  30px;//$$navicon-width;
-    height:  4px;//$$navicon-height;
-    background: #fff;
-    border-radius: 8px;
+    width:  $navicon-width;
+    height:  $navicon-height;
+    background: #141414;;
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
 
   &:before {
     top: (-2 * $navicon-height);
-    background: #fff;
-    border-radius: 8px;
   }
 
   &:after {
     bottom: (-2 * $navicon-height);
-    background: #fff;
-    border-radius: 8px;
   }
 }
 
@@ -364,17 +359,11 @@ body:hover .visually-hidden button {
   /* rotate the lines to form the x shape*/
   &:before{
     -webkit-transform: rotate3d(0,0,1,45deg);
-            transform: rotate3d(0,0,1,45deg);
-            background: #fff;
-            border-radius: 8px;
-           
+            transform: rotate3d(0,0,1,45deg);           
   }
   &:after{
     -webkit-transform: rotate3d(0,0,1,-45deg);
-            transform: rotate3d(0,0,1,-45deg);
-            background: #fff;
-            border-radius: 8px;
-            
+            transform: rotate3d(0,0,1,-45deg);            
   }
 }
 
