@@ -263,7 +263,12 @@ body:hover .visually-hidden button {
     color: $twitter-color;
   }
 
-  .fa-orcid {
+  //.fa-orcid {
+  //  color: $orcid-color;
+  //}
+
+  .ai-orcid,
+  .ai-orcid-square {
     color: $orcid-color;
   }
    
