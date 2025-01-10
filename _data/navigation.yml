@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: /cv/
+  - title: "Research"
+    url: /reserach/   
     
   - title: "Publications"
     url: /publications/
@@ -10,16 +10,6 @@ main:
   - title: "Talks"
     url: /talks/  
  
-  - title: "Physics"
-    url: /physics/   
-    
-  - title: "GlueX"
-    url: /GlueX/  
- 
- 
- 
- 
-  - title: "Pictures"
-    url: /pictures/  
-    
+  - title: "CV"
+    url: /cv/
 
