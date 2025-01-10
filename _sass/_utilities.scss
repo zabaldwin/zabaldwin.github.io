@@ -327,22 +327,22 @@ body:hover .visually-hidden button {
     left: 0;
     width:  30px;//$$navicon-width;
     height:  4px;//$$navicon-height;
-    background: #141414;//fff;
-    border-radius: 10px;
+    background: #fff;
+    border-radius: 8px;
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
 
   &:before {
     top: (-2 * $navicon-height);
-    background: #141414;//fff;
-    border-radius: 10px;
+    background: #fff;
+    border-radius: 8px;
   }
 
   &:after {
     bottom: (-2 * $navicon-height);
-    background: #141414;//fff;
-    border-radius: 10px;
+    background: #fff;
+    border-radius: 8px;
   }
 }
 
@@ -358,7 +358,7 @@ body:hover .visually-hidden button {
     top: 0;
     width: $navicon-width;
     background: #141414;//ffff
-    border-radius: 20px;
+    border-radius: 8px;
   }
 
   /* rotate the lines to form the x shape*/
@@ -366,14 +366,14 @@ body:hover .visually-hidden button {
     -webkit-transform: rotate3d(0,0,1,45deg);
             transform: rotate3d(0,0,1,45deg);
             background: #141414;//fff;
-            border-radius: 20px;
+            border-radius: 8px;
            
   }
   &:after{
     -webkit-transform: rotate3d(0,0,1,-45deg);
             transform: rotate3d(0,0,1,-45deg);
             background: #141414;//fff;
-            border-radius: 20px;
+            border-radius: 8px;
             
   }
 }
