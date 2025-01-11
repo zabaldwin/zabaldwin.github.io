@@ -7,44 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I grew up deep in the foothills of the Appalachian Mountains, tucked away in a <em>holler</em> between two tiny, rural towns -- Meadowview and Abingdon. Nestled near the boarder of Virgina and Tennessee, it's a place where cows outnumber people and apparently our accents leave people wishing for subtitles.
-      > Holler: Southern Appalachia word for a small valley between mountains.
+I grew up deep in the foothills of the Appalachian Mountains, tucked away in a <em>holler</em> between two tiny, rural towns -- Meadowview and Abingdon. Situated near the boarder of Virgina and Tennessee, it's a place where cows outnumber people and apparently our accents leave people wishing for subtitles.
+> Holler: Southern Appalachia word for a small valley between mountains.
 
-<p align="right">
-  <img src="https://zabaldwin.github.io/files/Meadowview.png" alt="Photo" style="width: 250px;"/>   
-  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.05.57 AM.png" alt="Photo" style="width: 250px;"/> 
-</p>
+Currently, I am a U.S. Deparment of Energy - Office of Science Graduate Student Research Fellow pursuing a Ph.D. in Nuclear and Particle Physics at Carnegie Mellon University. My thesis research is centered on the [Gluonic Excitation](https://en.wikipedia.org/wiki/GlueX) experiment at the Thomas Jefferson National Accelerator Facility, under the mentorship of Professor Curtis Meyer, the spokesperson of GlueX. Specifically, I investigate <em class="bold-italic">exotic hybrid</em> mesons within two pseudoscalar systems by analyzing photoproduction processes to identify spin-exotic states, such as the $\pi_1(1600)$. These states challenge the traditional quark model, advancing our understanding of quark-gluon interactions by probing gluonic excitations and shedding light on to the mechanisms that govern the strong force.
 
+In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Bochum group in Germany, I am also conducting an angular analysis of di- $J/\psi$ systems to study exotic tetraquarks produced via hadroproduction in proton-proton collisions at the [LHCb](https://en.wikipedia.org/wiki/LHCb_experiment)  experiment, located at CERN's Large Hadron Collider. This work focuses on understanding the properties of the recently observed <em class="bold-italic">exotic tetraquark</em> states, such as the narrow $X(6900)$ resonance and other potential structures in the invariant mass spectrum of $J/\psi$ pairs. By analyzing angular distributions, we aim to characterize the quantum properties of exotic hadrons, including spin-parity and substructure, to gain deeper insights into the dynamics of multiquark systems and the mechanisms driving exotic hadron formation. 
 
-Currently, I am a Ph.D. candidate in [Nuclear and Particle Physics](https://www.cmu.edu/physics/) at [Carnegie Mellon University](https://www.cmu.edu/) working on the [GlueX](https://en.wikipedia.org/wiki/GlueX) experiment at the Thomas Jefferson National Accelerator Facility. My advisor is Professor Curtis Meyer, spokesperson of GlueX.
-
-
-<p align="left">
-  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.28.34 AM.png
-" alt="Photo" style="width: 250px;"/> 
-</p>
-  
-During 2019, I recieved my Bachelor of Science degrees from [The College of William and Mary](https://www.wm.edu/) with honors in Physics and Mathematics. There, I worked with Professor Justin Stevens from the winter of 2016 to the spring of 2019 on exclusice $\pi^{0}$ production and Compton scattering which resulted in an honors thesis.
-
-<p align="right">
-  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.13.19 AM.png
-" alt="Photo" style="width: 250px;"/> 
-</p>
-
-Starting in 2018, I was granted the opportunity to become a visiting student researcher for Dr. Ken Livingston at the [University of Glasgow](https://www.gla.ac.uk/) in Glasgow, Scotland. I worked on developing brand new approachs using machine learning techniques and simulations while in Scotland for the development of a compact pair polarimeter and spectrometer for use in future hadron physics experiments. It is stated that this polarimeter could do for hadron spectroscopy what the Hubble Telescope did for astronomy.
-
-
-<p align="left">
-  <img src="https://zabaldwin.github.io/files/Screen Shot 2020-01-21 at 1.22.30 AM.png
-" alt="Photo" style="width: 250px;"/> 
-</p>
-
-After working on these simulations, I helped with the development of a prototype and test ran it on the [Mainzer Mikrotron (MAMI)](https://www.blogs.uni-mainz.de/fb08-nuclear-physics/accelerators-mami-mesa/the-mainz-microtron/) at [Johannes Gutenberg University](https://www.uni-mainz.de) in Mainz, Germany. 
-
-<p align="right">
-  <img src="https://zabaldwin.github.io/files/JohannesGuttenburg_Mainz.png
-" alt="Photo" style="width: 250px;"/> 
-</p>
 
 Research Interests
 ======
