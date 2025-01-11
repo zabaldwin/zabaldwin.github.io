@@ -7,10 +7,10 @@ author_profile: true
 <summary style="cursor: pointer; font-weight: bold; font-size: 1.5rem; display: flex; align-items: center;">
     Specialized Publications
   </summary>
-  <div style="margin-left: 40px; margin-top: 10px;">
+  <div style="margin-left: 40px; margin-top: 20px;">
     <details>
     <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">AI and Machine Learning</summary>
-      <div style="margin-left: 40px; margin-top: 10px;"> 
+      <div style="margin-left: 40px; margin-top:20px;"> 
         <p style="margin-top: 20px;">
         </p>
       </div>
@@ -30,10 +30,10 @@ author_profile: true
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.5rem; display: flex; align-items: center;">
     <span style="color: #0047ab;">Glu</span><span style="color: #ff0000;">eX </span> <span style="margin-left: 10px;">Associated Publications</span> 
   </summary>
-  <div style="margin-left: 40px; margin-top: 10px;">
+  <div style="margin-left: 40px; margin-top: 20px;">
     <details>
       <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">Collaboration Publications</summary>
-      <div style="margin-left: 40px; margin-top: 10px;">     
+      <div style="margin-left: 40px; margin-top: 20px;">     
         <p style="margin-top: 20px;">
           <strong>An Upper Limit on the Photoproduction Cross Section of the Spin-Exotic &pi;<sub>1</sub>(1600)</strong><br>
           Published in <em>arXiv</em> -- July, 2024<br>
