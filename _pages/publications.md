@@ -3,22 +3,36 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-<p style="margin-top: 20px;">
+<details>
+<summary style="cursor: pointer; font-weight: bold; font-size: 1.2rem; display: flex; align-items: center;">
+    Specialized Publications
+  </summary>
+  <div style="margin-left: 40px; margin-top: 10px;">
+    <details>
+    <summary style="cursor: pointer; font-weight: bold; font-size: 0.5rem; display: flex; align-items: center;">AI and Machine Learning</summary>
+      <div style="margin-left: 40px; margin-top: 10px;"> 
+        <p style="margin-top: 20px;">
+        </p>
+      </div>
+    </details>
+      <p style="margin-top: 20px;">
           <strong>Ambiguities in partial wave analysis of two spinless meson photoproduction</strong><br>
           Published in <em>Physical Review D</em> -- August, 2023<br>
           <ul>
             <li>DOI: <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.076001">https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.076001</a></li>
             <li>arXiv: <a href="https://arxiv.org/abs/2306.17779">https://arxiv.org/abs/2306.17779</a></li>
           </ul>
-        </p>
-<details>
-  
-  <summary style="cursor: pointer; font-weight: bold; font-size: 2rem; display: flex; align-items: center;">
+    </p>
+ </div>
+     </details>
+
+  <details>
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.2rem; display: flex; align-items: center;">
     <span style="color: #0047ab;">Glu</span><span style="color: #ff0000;">eX </span> <span style="margin-left: 10px;">Associated Publications</span> 
   </summary>
   <div style="margin-left: 40px; margin-top: 10px;">
     <details>
-      <summary style="cursor: pointer; font-weight: bold; font-size: 1.2rem; display: flex; align-items: center;">Collaboration Publications</summary>
+      <summary style="cursor: pointer; font-weight: bold; font-size: 0.5rem; display: flex; align-items: center;">Collaboration Publications</summary>
       <div style="margin-left: 40px; margin-top: 10px;">     
         <p style="margin-top: 20px;">
           <strong>An Upper Limit on the Photoproduction Cross Section of the Spin-Exotic &pi;<sub>1</sub>(1600)</strong><br>
@@ -70,7 +84,7 @@ author_profile: true
       </div>
     </details>
     <details>
-      <summary style="cursor: pointer; font-weight: bold; font-size: 1.2rem; display: flex; align-items: center;">Proceedings</summary>
+      <summary style="cursor: pointer; font-weight: bold; font-size: 0.5rem; display: flex; align-items: center;">Proceedings</summary>
       <div style="margin-left: 40px; margin-top: 20px;">
         <p style="margin-top: 20px;"></p>
       </div>
@@ -78,19 +92,20 @@ author_profile: true
   </div>
 </details>
 
+
 <details>
-  <summary style="cursor: pointer; font-weight: bold; font-size: 2rem; display: flex; align-items: center;">
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.2rem; display: flex; align-items: center;">
     <span style="color: #89cff0;">LHCb </span> <span style="margin-left: 10px;">Associated Publications</span>
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
     <details>
-      <summary style="cursor: pointer; font-weight: bold; font-size: 1.2rem; display: flex; align-items: center;">Collaboration Publications</summary>
+      <summary style="cursor: pointer; font-weight: bold; font-size: 0.5rem; display: flex; align-items: center;">Collaboration Publications</summary>
       <div style="margin-left: 40px; margin-top: 20px;">
         <p style="margin-top: 20px;"></p>
       </div>
     </details>
     <details>
-      <summary style="cursor: pointer; font-weight: bold; font-size: 1.2rem; display: flex; align-items: center;">Proceedings</summary>
+      <summary style="cursor: pointer; font-weight: bold; font-size: 0.5rem; display: flex; align-items: center;">Proceedings</summary>
       <div style="margin-left: 40px; margin-top: 20px;">
         <p style="margin-top: 20px;"></p>
       </div>
