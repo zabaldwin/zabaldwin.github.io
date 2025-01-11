@@ -17,8 +17,13 @@ In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Boc
 
 Research Interests
 ======
+
+
 <hr>
 The need to increase the speed and performance for all computations (whether theoretical or experimental) within High Energy and Nuclear Physics is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools in 2022 and one in 2024 to further develop my skills, present on my current work on the topics, and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.  
+
+
+### Computational and Data Science Training for High Energy Physics -- Princeton, New Jersey
 
 ### High-Performace Computing School -- Athens, Greece
 
@@ -38,22 +43,10 @@ The need to increase the speed and performance for all computations (whether the
 " alt="Photo" style="width: 250px;"/>  
 </p>
 
-### Computational and Data Science Training for High Energy Physics -- Princeton, New Jersey
-
 <hr>
 
-Current Research
+Media Coverage 
 ======
-
-My area of research is searching for the existence of exotic hybrid mesons, particularly on the $\pi^{0} \eta$ and $\pi^{0} \eta'$ systems. The interest in these two systems is due to the strong possibility of the presence of exotic $J^{PC}$ (quantum) numbers in their final states. By comparing both systems, the role of flavor symmetry should be shown as to allow for a better understanding of meson production mechanisms. Implementing a partial wave analysis will provide information as to what the exotic hybrid candidate with spin exotic-signature is. For more information on this and other similar topics, please email me or click on the physics navigation link in the header.
-
-<p align="center">
-  <img src="https://zabaldwin.github.io/Screen Shot 2022-06-12 at 12.54.48 AM.png" alt="Photo" style="width: 550px;"/>   
-  <img src="https://zabaldwin.github.io/COSTHETA-DNP.png" alt="Photo" style="width: 550px;"/>
-</p>
-<p align="center">
-Example distributions from both $\pi^{0} \eta'$ and  $\pi^{0} \eta$ systems 
-</p>
 
 An article was recently written about the talks myself and several other young scientists gave about our research in Madison, Wisonsin. 
 The talks focused on how each of us utilized High-Throughput Computing in our specific fields and scientific disciplines.
