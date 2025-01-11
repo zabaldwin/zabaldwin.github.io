@@ -11,7 +11,7 @@
 #logo                     : "GlueX_Logo.pdf"
 #search                   : true
 locale                   : "en-US"
-title                    : "       Home"
+title                    : "       Homepage"
 title_separator          : "-"
 name                     : &name "Zachary Baldwin"
 description              : &description "Ph.D. candidate at Carnegie Mellon University"
