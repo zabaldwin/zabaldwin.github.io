@@ -33,18 +33,18 @@ Media Coverage
 ======
 
 <details style="margin-bottom: 30px;">
-  <summary style="cursor: pointer; font-weight: bold; font-size: 1.5rem; display: flex; align-items: center;">
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">
     Featured Articles
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin-top: 15px;">
-        <a href="https://osg-htc.org/spotlights/Lightning-Talks.html" target="_blank" style="text-decoration: none; font-size: 1.2rem; font-weight: bold; color: #007BFF;">
+        <a href="https://osg-htc.org/spotlights/Lightning-Talks.html" target="_blank" style="text-decoration: none; font-size: 0.5rem; font-weight: bold; color: #007BFF;">
           Open Science Grid
         </a>
       </li>
       <li style="margin-top: 15px;">
-        <a href="https://www.cmu.edu/mcs/news-events/2024/0731_baldwin-doe-award.html" target="_blank" style="text-decoration: none; font-size: 1.2rem; font-weight: bold; color: #007BFF;">
+        <a href="https://www.cmu.edu/mcs/news-events/2024/0731_baldwin-doe-award.html" target="_blank" style="text-decoration: none; font-size: 0.5rem; font-weight: bold; color: #007BFF;">
           Carnegie Mellon University - SCGSR
         </a>
       </li>
@@ -53,7 +53,7 @@ Media Coverage
 </details>
 
 <details style="margin-bottom: 30px;">
-  <summary style="cursor: pointer; font-weight: bold; font-size: 1.5rem; display: flex; align-items: center;">
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">
     Featured Videos
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
