@@ -23,27 +23,12 @@ Research Interests
 The need to increase the speed and performance for all computations (whether theoretical or experimental) within High Energy and Nuclear Physics is crucial. Because of this, I have began to specialize in the enhancement of scientific computational research through several means, including: High-Performance Computing and High-Throughput Computing. For my work, I was accepted and invited to attend two schools in 2022 and one in 2024 to further develop my skills, present on my current work on the topics, and to collaborate with other leading experts from around the world in various fields and disciplines across the sciences.  
 
 
-### Computational and Data Science Training for High Energy Physics &nbsp; | &nbsp; <em class="bold-italic">Princeton University</em>
-<p align="center">  
-  <img src="https://zabaldwin.github.io/files/CodasHep.png
-" alt="Photo" style="width: 550px;"/>  
-</p>
+* ##### Computational and Data Science Training for High Energy Physics &nbsp; | &nbsp; <em class="bold-italic">Princeton University</em>
 
-### High-Performace Computing School &nbsp; | &nbsp; <em class="bold-italic">Athens, Greece</em>
-<p align="center">  
-  <img src="https://zabaldwin.github.io/files/SponsorsIHPC.png
-" alt="Photo" style="width: 250px;"/>  
-  <img src="https://zabaldwin.github.io/files/IHPCSSchool.png
-" alt="Photo" style="width: 250px;"/>  
-</p>
+* ##### High-Performace Computing School &nbsp; | &nbsp; <em class="bold-italic">Athens, Greece</em>
 
-### High-Throughput Computing School &nbsp; | &nbsp; <em class="bold-italic">University of Wisconsin</em>
-<p align="center">  
-  <img src="https://zabaldwin.github.io/files/SponsorOSG.png
-" alt="Photo" style="width: 250px;"/>   
-  <img src="https://zabaldwin.github.io/files/OsgUserSchool.png
-" alt="Photo" style="width: 250px;"/>  
-</p>
+
+* ##### High-Throughput Computing School &nbsp; | &nbsp; <em class="bold-italic">University of Wisconsin</em>
 
 <hr>
 
