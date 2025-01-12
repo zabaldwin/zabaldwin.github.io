@@ -32,7 +32,7 @@ redirect_from:
 <hr>
 <ul>
   <li>
-    <strong>Visiting Student Researcher, The Large Hadron Collider | CERN - 2024</strong>
+    <strong>Visiting Student Researcher, Large Hadron Collider | CERN - 2024</strong>
     <ul>
       <li>Advisors: Mikhail Mikhasenko, Sascha Stahl</li>
     </ul>
