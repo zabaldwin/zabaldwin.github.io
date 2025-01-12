@@ -14,6 +14,8 @@ Currently, I am a U.S. Deparment of Energy - Office of Science Graduate Student 
 
 In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Bochum group in Germany, I am also conducting an angular analysis of di- $J/\psi$ systems to study the recently discovered <em class="bold-italic">exotic tetraquarks</em>. These states are produced via hadroproduction in proton-proton collisions at the [LHCb](https://en.wikipedia.org/wiki/LHCb_experiment) experiment, located at CERN's Large Hadron Collider. This work focuses on understanding the properties of the observed $X(6900)$ resonance and other potential structures in the $J/\psi$ pair's invariant mass spectrum. By analyzing angular distributions, we aim to determine the resonance's quantum properties, such as spin-parity and substructure, providing deeper insights into multiquark dynamics and the mechanisms driving exotic hadron formation.
 
+Lastly, I am an affiliate graduate trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute ([A3D3](https://a3d3.ai)). 
+> A multi-disciplinary and geographically distributed entity with the primary mission to lead a paradigm shift in the application of real-time artificial intelligence (AI) at scale to advance scientific knowledge and accelerate discovery.
 
 Research Interests
 ======
