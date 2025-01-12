@@ -38,7 +38,7 @@ redirect_from:
     </ul>
   </li>
   <li>
-    <strong>Visiting Student Researcher, The University of Glasgow - 2018</strong>
+    <strong>Visiting Student Researcher, University of Glasgow - 2018</strong>
     <ul>
       <li>Advisor: Ken Livingston</li>
     </ul>
@@ -53,7 +53,7 @@ redirect_from:
     </a>
   </p>
 </div>
-<p style="text-align: right; font-size: 0.8rem; margin-top: 5px;">
+<p style="text-align: right; font-size: 1.0rem; margin-top: 5px;">
   Updated: August, 2024
 </p>
 
