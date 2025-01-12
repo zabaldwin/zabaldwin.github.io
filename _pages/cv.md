@@ -48,10 +48,9 @@ redirect_from:
 <hr>
 Updated: August, 2024
 
-<div style="border: 2px solid #f9e40c; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <p style="margin: 0; font-size: 1rem; font-weight: bold;"></p>
+<div style="border: 2px solid #f9e40c; padding: 20px; border-radius: 5px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <p style="margin: 10px 0 0;">
-    <a href="http://zabaldwin.github.io/files/Baldwin_CV_2024update.pdf" style="text-decoration: none; font-size: 1.5rem; font-weight: bold;">
+    <a href="http://zabaldwin.github.io/files/Baldwin_CV_2024update.pdf" style="text-decoration: none; font-size: 1.0rem; font-weight: bold;">
       Curriculum Vitae
     </a>
   </p>
