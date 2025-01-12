@@ -8,8 +8,10 @@ date: 2018-04-16
 location: "Columbus, Ohio"
 ---
 
-
-Abstract located [here](http://meetings.aps.org/Meeting/APR18/Session/T01.33)  
-<p align="right">
-  <img src="https://zabaldwin.github.io/files/APS2018.png" alt="Photo" style="width: 250px;"/> 
-</p>
+<div style="display: flex; align-items: flex-start; justify-content: flex-end; border: 2px solid #f9e40c; padding: 10px; border-radius: 5px; width: fit-content; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); margin-left: auto;">
+  <p style="margin: 0;">
+    <a href="https://zabaldwin.github.io/files/APS2018.png" style="text-decoration: none; color: #ffffff; font-weight: bold;">
+      Abstract
+    </a>
+  </p>
+</div>
