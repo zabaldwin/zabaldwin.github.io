@@ -5,22 +5,22 @@ var addressPoints = [
     -155.789495
   ], 
   [
-    "Pittsburgh (Carnegie Mellon University)",
+    "Pittsburgh, Pennsylvania | Carnegie Mellon University)",
     40.440763,
     -79.99589
   ],
   [
-    "Glasgow, Scotland (University of Glasgow)",
+    "Glasgow, Scotland | University of Glasgow",
     55.86515,
     -4.25763
   ],
   [
-    "Williamsburg (The College of William & Mary)",
+    "Williamsburg, Virginia | The College of William & Mary",
     37.2705556,
     -76.7077778
   ],
   [
-    "Newport News (Jefferson Lab)",
+    "Newport News, Virginia | Jefferson Lab",
     37.0870821,
     -76.4730122
   ],
@@ -35,17 +35,17 @@ var addressPoints = [
     -82.983330
   ],
   [
-    "Madison, Wisconsin (University of Wisconsin)",
+    "Madison, Wisconsin | University of Wisconsin",
     43.073051,
     -89.401230
   ],
   [
-    "West Lafayette, Indiana (Purdue University)",
+    "West Lafayette, Indiana | Purdue University",
     40.423705,
     -86.921195
   ],
   [
-    "Princeton, New Jersey (Princeton University)",
+    "Princeton, New Jersey | Princeton University",
     40.343990,
     -74.651448
   ],
@@ -55,19 +55,24 @@ var addressPoints = [
     23.727539
   ],
   [
-    "Barcelona, Spain (Universitat de Barcelona)",
+    "Barcelona, Spain | Universitat de Barcelona",
     41.385064,
     2.173404
   ],
   [
-    "Schenectady, New York (Union College)",
+    "Schenectady, New York | Union College",
     42.817572,
     -73.930687
   ], 
   [
-    "Geneva, Switzerland (CERN-LHC)",
+    "Geneva, Switzerland  | CERN",
     46.204391,
     6.143158
+  ],
+  [
+    "Stony Brook, New York | Stony Brook University",
+    40.912567,
+    -73.123239
   ],
   //[
   //  "Cambridge, Massachusetts",
@@ -75,7 +80,7 @@ var addressPoints = [
   //  -71.110558
   //]
   [
-    "Mainz, Germany (Mainzer Mikrotron)",
+    "Mainz, Germany | Mainzer Mikrotron",
     49.98419,
     8.2791
   ]
