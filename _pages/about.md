@@ -17,7 +17,7 @@ In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Boc
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
     <p>
-      Lastly, I am an affiliate graduate student and trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute 
+      Lastly, I am an affiliate graduate trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute 
       (<a href="https://a3d3.ai" target="_blank">A3D3</a>).
     </p>
     <blockquote>
@@ -25,12 +25,13 @@ In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Boc
       application of real-time artificial intelligence (AI) at scale to advance scientific knowledge and accelerate discovery.
     </blockquote>
   </div>
-  <div style="flex-shrink: 0; background-color: white; padding: 10px; border: 2px solid #f9e40c; border-radius: 10px;">
-    <img src="https://zabaldwin.github.io/files/A3D3_robot.png" 
+  <div style="flex-shrink: 0; background-color: #f5f5f5; padding: 10px; border: 2px solid #f9e40c; border-radius: 10px;">
+    <img src="https://zabaldwin.github.io/files/A3D3-design.png" 
          alt="A3D3 Robot" 
          style="width: 250px; height: auto; display: block;">
   </div>
 </div>
+
 
 
 
