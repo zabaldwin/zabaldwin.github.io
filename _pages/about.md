@@ -79,9 +79,9 @@ Scientific Computing
 
 Increasing the speed and performance of computations, both theoretical and experimental, is critical to advancing nuclear and particle physics. To address this need, I have specialized in enhancing scientific computational research through methods such as High-Performance Computing and High-Throughput Computing. As part of this work, I was accepted to and invited to attend two specialized schools in 2022 and one in 2024, where I further developed my skills, presented my ongoing research, and collaborated with leading experts from diverse scientific disciplines worldwide.
 
-* ##### Computational and Data Science Training for High Energy Physics &nbsp; | &nbsp; <em class="bold-italic">Princeton University</em>
-* ##### High-Performace Computing School &nbsp; | &nbsp; <em class="bold-italic">Athens, Greece</em>
-* ##### High-Throughput Computing School &nbsp; | &nbsp; <em class="bold-italic">University of Wisconsin</em>
+* #### Computational and Data Science Training for High Energy Physics &nbsp; | &nbsp; <em class="bold-italic">Princeton University</em>
+* #### High-Performace Computing School &nbsp; | &nbsp; <em class="bold-italic">Athens, Greece</em>
+* #### High-Throughput Computing School &nbsp; | &nbsp; <em class="bold-italic">University of Wisconsin</em>
 
 
 Media Coverage 
@@ -95,12 +95,12 @@ Media Coverage
   <div style="margin-left: 40px; margin-top: 20px;">
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin-top: 15px;">
-        <a href="https://osg-htc.org/spotlights/Lightning-Talks.html" target="_blank" style="text-decoration: none; font-size: 1.0rem; font-weight: bold; color: #007BFF;">
+        <a href="https://osg-htc.org/spotlights/Lightning-Talks.html" target="_blank" style="text-decoration: none; font-size: 0.85rem; font-weight: bold; color: #007BFF;">
           Open Science Grid
         </a>
       </li>
       <li style="margin-top: 15px;">
-        <a href="https://www.cmu.edu/mcs/news-events/2024/0731_baldwin-doe-award.html" target="_blank" style="text-decoration: none; font-size: 1.0rem; font-weight: bold; color: #007BFF;">
+        <a href="https://www.cmu.edu/mcs/news-events/2024/0731_baldwin-doe-award.html" target="_blank" style="text-decoration: none; font-size: 0.85rem; font-weight: bold; color: #007BFF;">
           Carnegie Mellon University - SCGSR
         </a>
       </li>
