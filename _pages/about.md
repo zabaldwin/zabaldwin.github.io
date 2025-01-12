@@ -43,7 +43,7 @@ Research Interests
         <ul>
           <li>Parton Distribution Functions (PDFs)</li>
           <li>Generalized Parton Distributions (GPDs)</li>
-          <li>Transverse Momentums Distributions (TMDs)</li>
+          <li>Transverse Momentum Distributions (TMDs)</li>
         </ul>
       </li>
       <li>Quarkonium Production</li>
@@ -60,10 +60,25 @@ Scientific Computing
 
 Increasing the speed and performance of computations, both theoretical and experimental, is critical to advancing nuclear and particle physics. To address this need, I have specialized in enhancing scientific computational research through methods such as High-Performance Computing and High-Throughput Computing. As part of this work, I was accepted to and invited to attend two specialized schools in 2022 and one in 2024, where I further developed my skills, presented my ongoing research, and collaborated with leading experts from diverse scientific disciplines worldwide.
 
-* ### Computational and Data Science Training for High Energy Physics &nbsp; | &nbsp; <em class="bold-italic">Princeton University</em>
-* ### High-Performace Computing School &nbsp; | &nbsp; <em class="bold-italic">Athens, Greece</em>
-* ### High-Throughput Computing School &nbsp; | &nbsp; <em class="bold-italic">University of Wisconsin</em>
-
+<div style="font-size: 1.0rem;">
+<ul style="list-style-type: disc; margin-left: 1.0em; font-weight: normal;">
+    <li>
+      <strong>Computational and Data Science Training for High Energy Physics</strong>
+      &nbsp; | &nbsp;
+      <em class="italic">Princeton University</em>
+    </li>
+    <li>
+      <strong>High-Performance Computing School</strong>
+      &nbsp; | &nbsp;
+      <em class="italic">Athens, Greece</em>
+    </li>
+    <li>
+      <strong>High-Throughput Computing School</strong>
+      &nbsp; | &nbsp;
+      <em class="italic">University of Wisconsin</em>
+    </li>
+  </ul>
+</div>
 
 Media Coverage 
 ======
