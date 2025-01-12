@@ -24,6 +24,10 @@ The need to increase the speed and performance for all computations (whether the
 
 
 ### Computational and Data Science Training for High Energy Physics -- Princeton, New Jersey
+<p align="center">  
+  <img src="https://zabaldwin.github.io/files/CodasHep.png
+" alt="Photo" style="width: 250px;"/>  
+</p>
 
 ### High-Performace Computing School -- Athens, Greece
 
