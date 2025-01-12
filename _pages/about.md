@@ -14,7 +14,7 @@ Currently, I am a U.S. Deparment of Energy - Office of Science Graduate Student 
 
 In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Bochum group in Germany, I am also conducting an angular analysis of di- $J/\psi$ systems to study the recently discovered <em class="bold-italic">exotic tetraquarks</em>. These states are produced via hadroproduction in proton-proton collisions at the [LHCb](https://en.wikipedia.org/wiki/LHCb_experiment) experiment, located at CERN's Large Hadron Collider. This work focuses on understanding the properties of the observed $X(6900)$ resonance and other potential structures in the $J/\psi$ pair's invariant mass spectrum. By analyzing angular distributions, we aim to determine the resonance's quantum properties, such as spin-parity and substructure, providing deeper insights into multiquark dynamics and the mechanisms driving exotic hadron formation.
 
-Lastly, I am an affiliate graduate trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute ([A3D3](https://a3d3.ai))
+Lastly, I am an affiliate graduate trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute ([A3D3](https://a3d3.ai)).
 
 Research Interests
 ======
@@ -60,22 +60,39 @@ Scientific Computing
 
 Increasing the speed and performance of computations, both theoretical and experimental, is critical to advancing nuclear and particle physics. To address this need, I have specialized in enhancing scientific computational research through methods such as High-Performance Computing and High-Throughput Computing. As part of this work, I was accepted to and invited to attend two specialized schools in 2022 and one in 2024, where I further developed my skills, presented my ongoing research, and collaborated with leading experts from diverse scientific disciplines worldwide.
 
-<div style="font-size: 1.0rem;">
-<ul style="list-style-type: disc; margin-left: 1.0em; font-weight: normal;">
+<div style="font-size: 1.0rem; text-align: left;">
+  <ul style="list-style-type: disc; margin-left: 1.0em; padding-left: 0; font-weight: normal;">
     <li>
-      <strong>Computational and Data Science Training for High Energy Physics</strong>
+      Computational and Data Science Training for High Energy Physics
       &nbsp; | &nbsp;
       <em class="italic">Princeton University</em>
     </li>
     <li>
-      <strong>High-Performance Computing School</strong>
+      High-Performance Computing School
       &nbsp; | &nbsp;
       <em class="italic">Athens, Greece</em>
     </li>
     <li>
-      <strong>High-Throughput Computing School</strong>
+      High-Throughput Computing School
       &nbsp; | &nbsp;
       <em class="italic">University of Wisconsin</em>
+    </li>
+  </ul>
+</div>
+
+
+Electron-Ion Collider
+======
+<hr>
+
+One of the fundamental challenges in nuclear and particle physics is understanding the <em>glue</em> that binds quarks inside hadrons. Driven by a deep interest in this frontier, I was selected to attend a specialized program in 2023 focused on the physics of the Electron-Ion Collider ([EIC](https://en.wikipedia.org/wiki/Electron–ion_collider)) -- the world’s first polarized electron-nucleon and electron-nucleus collider. This opportunity provided state of the art theoretical and experimental insights on how quarks and gluons give rise to nucleonic mass, spin, and the emergence of hadronic states, as well as how dense nuclear environments may give rise to a phenomena like gluon saturation. 
+
+<div style="font-size: 1.0rem; text-align: left;">
+  <ul style="list-style-type: disc; margin-left: 1.0em; padding-left: 0; font-weight: normal;">
+    <li>
+      CFNS-CTEQ Summer School on the Physics of the Electron-Ion Collider
+      &nbsp; | &nbsp;
+      <em class="italic">Stony Brook University</em>
     </li>
   </ul>
 </div>
