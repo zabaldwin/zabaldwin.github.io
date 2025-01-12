@@ -73,6 +73,8 @@ Research Interests
   </li>
 </ul>
 
+Scientific Computing
+======
 <hr>
 
 Increasing the speed and performance of computations, both theoretical and experimental, is critical to advancing nuclear and particle physics. To address this need, I have specialized in enhancing scientific computational research through methods such as High-Performance Computing and High-Throughput Computing. As part of this work, I was accepted to and invited to attend two specialized schools in 2022 and one in 2024, where I further developed my skills, presented my ongoing research, and collaborated with leading experts from diverse scientific disciplines worldwide.
@@ -81,10 +83,10 @@ Increasing the speed and performance of computations, both theoretical and exper
 * ##### High-Performace Computing School &nbsp; | &nbsp; <em class="bold-italic">Athens, Greece</em>
 * ##### High-Throughput Computing School &nbsp; | &nbsp; <em class="bold-italic">University of Wisconsin</em>
 
-<hr>
 
 Media Coverage 
 ======
+<hr>
 
 <details style="margin-bottom: 30px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">
