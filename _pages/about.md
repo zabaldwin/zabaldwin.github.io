@@ -25,12 +25,13 @@ In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Boc
       application of real-time artificial intelligence (AI) at scale to advance scientific knowledge and accelerate discovery.
     </blockquote>
   </div>
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0; background-color: white; padding: 10px; border: 2px solid #f9e40c; border-radius: 10px;">
     <img src="https://zabaldwin.github.io/files/A3D3_robot.png" 
          alt="A3D3 Robot" 
-         style="width: 250px; height: auto; border-radius: 10px;">
+         style="width: 250px; height: auto; display: block;">
   </div>
 </div>
+
 
 
 Research Interests
