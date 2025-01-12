@@ -1,5 +1,5 @@
 ---
-title: $\textit{Colloquium} \| $ Enhancing Scientific Research Utilizing High-Performance And High-Throughput Computing- An Overview With Uses In Nuclear And Particle Physics
+title: $\textit{Colloquium} \hspace{1mm} \| $ Enhancing Scientific Research Utilizing High-Performance And High-Throughput Computing- An Overview With Uses In Nuclear And Particle Physics
 collection: talks
 type: "Union College"
 permalink: /talks/UNIONCOLL
