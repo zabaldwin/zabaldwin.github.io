@@ -9,13 +9,13 @@ author_profile: true
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
     <details>
-    <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">AI and Machine Learning</summary>
+    <summary style="cursor: pointer; font-weight: bold; font-size: 0.85rem; display: flex; align-items: center;">AI and Machine Learning</summary>
       <div style="margin-left: 40px; margin-top:20px;"> 
         <p style="margin-top: 20px;">
         </p>
       </div>
     </details>
-      <p style="margin-top: 20px;">
+      <p style="margin-top: 20px; font-size: 0.85rem;">
           <strong>Ambiguities in partial wave analysis of two spinless meson photoproduction</strong><br>
           Published in <em>Physical Review D</em> -- August, 2023<br>
           <ul>
@@ -32,16 +32,16 @@ author_profile: true
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
     <details>
-      <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">Collaboration Publications</summary>
+      <summary style="cursor: pointer; font-weight: bold; font-size: 0.85rem; display: flex; align-items: center;">Collaboration Publications</summary>
       <div style="margin-left: 40px; margin-top: 20px;">     
-        <p style="margin-top: 20px;">
+        <p style="margin-top: 20px; font-size: 0.85rem;">
           <strong>An Upper Limit on the Photoproduction Cross Section of the Spin-Exotic &pi;<sub>1</sub>(1600)</strong><br>
           Published in <em>arXiv</em> -- July, 2024<br>
           <ul>
             <li>arXiv: <a href="https://arxiv.org/abs/2407.03316#">https://arxiv.org/abs/2407.03316#</a></li>
           </ul>
         </p>
-        <p style="margin-top: 20px;">
+        <p style="margin-top: 20px; font-size: 0.85rem;">
           <strong>Measurement of spin-density matrix elements in &rho;(770) production with a linearly polarized photon beam at E<sub>&gamma;</sub> = 8.2-8.8 GeV</strong><br>
           Published in <em>Physical Review C</em> -- October, 2023<br>
           <ul>
@@ -49,7 +49,7 @@ author_profile: true
             <li>arXiv: <a href="https://arxiv.org/abs/2305.09047">https://arxiv.org/abs/2305.09047</a></li>
           </ul>
         </p>
-        <p style="margin-top: 20px;">
+        <p style="margin-top: 20px; font-size: 0.85rem;">
           <strong>Measurement of the J/<sub>&psi;</sub> photoproduction cross section over the full near-threshold kinematic region</strong><br>
           Published in <em>Physical Review C</em> -- June, 2023<br>
           <ul>
@@ -57,7 +57,7 @@ author_profile: true
             <li>arXiv: <a href="https://arxiv.org/abs/2304.03845">https://arxiv.org/abs/2304.03845</a></li>
           </ul>
         </p>
-        <p style="margin-top: 20px;">
+        <p style="margin-top: 20px; font-size: 0.85rem;">
           <strong>Search for photoproduction of axion-like particles at GlueX</strong><br>
           Published in <em>Physical Review D</em> -- March, 2022<br>
           <ul>
@@ -65,7 +65,7 @@ author_profile: true
             <li>arXiv: <a href="https://arxiv.org/abs/2109.13439">https://arxiv.org/abs/2109.13439</a></li>
           </ul>
         </p>
-        <p style="margin-top: 20px;">
+        <p style="margin-top: 20px; font-size: 0.85rem;">
           <strong>Measurement of Spin Density Matrix Elements in &lambda;(1520) Photoproduction at 8.2 GeV to 8.8 GeV</strong><br>
           Published in <em>Physical Review C</em> -- March, 2022<br>
           <ul>
@@ -73,7 +73,7 @@ author_profile: true
             <li>arXiv: <a href="https://arxiv.org/abs/2107.12314">https://arxiv.org/abs/2107.12314</a></li>
           </ul>
         </p>
-        <p style="margin-top: 20px;">
+        <p style="margin-top: 20px; font-size: 0.85rem;">
           <strong>Measurement of beam asymmetry for &pi;<sup>-</sup>&Delta;<sup>++</sup> photoproduction on the proton at E<sub>&gamma;</sub>=8.5 GeV</strong><br>
           Published in <em>Physical Review C</em> -- February, 2021<br>
           <ul>
@@ -84,7 +84,7 @@ author_profile: true
       </div>
     </details>
     <details>
-      <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">Proceedings</summary>
+      <summary style="cursor: pointer; font-weight: bold; font-size: 0.85rem; display: flex; align-items: center;">Proceedings</summary>
       <div style="margin-left: 40px; margin-top: 20px;">
         <p style="margin-top: 20px;"></p>
       </div>
@@ -99,13 +99,13 @@ author_profile: true
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
     <details>
-      <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">Collaboration Publications</summary>
+      <summary style="cursor: pointer; font-weight: bold; font-size: 0.85rem; display: flex; align-items: center;">Collaboration Publications</summary>
       <div style="margin-left: 40px; margin-top: 20px;">
         <p style="margin-top: 20px;"></p>
       </div>
     </details>
     <details>
-      <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">Proceedings</summary>
+      <summary style="cursor: pointer; font-weight: bold; font-size: 0.85rem; display: flex; align-items: center;">Proceedings</summary>
       <div style="margin-left: 40px; margin-top: 20px;">
         <p style="margin-top: 20px;"></p>
       </div>
