@@ -17,7 +17,7 @@ In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Boc
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
     <p>
-      Lastly, I am an affiliate graduate trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute 
+      Lastly, I am an affiliate graduate student and trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute 
       (<a href="https://a3d3.ai" target="_blank">A3D3</a>).
     </p>
     <blockquote>
