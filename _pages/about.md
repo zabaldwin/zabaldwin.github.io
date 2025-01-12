@@ -14,26 +14,7 @@ Currently, I am a U.S. Deparment of Energy - Office of Science Graduate Student 
 
 In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Bochum group in Germany, I am also conducting an angular analysis of di- $J/\psi$ systems to study the recently discovered <em class="bold-italic">exotic tetraquarks</em>. These states are produced via hadroproduction in proton-proton collisions at the [LHCb](https://en.wikipedia.org/wiki/LHCb_experiment) experiment, located at CERN's Large Hadron Collider. This work focuses on understanding the properties of the observed $X(6900)$ resonance and other potential structures in the $J/\psi$ pair's invariant mass spectrum. By analyzing angular distributions, we aim to determine the resonance's quantum properties, such as spin-parity and substructure, providing deeper insights into multiquark dynamics and the mechanisms driving exotic hadron formation.
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-    <p>
-      Lastly, I am an affiliate graduate trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute 
-      (<a href="https://a3d3.ai" target="_blank">A3D3</a>).
-    </p>
-    <blockquote>
-      A multi-disciplinary and geographically distributed entity with the primary mission to lead a paradigm shift in the 
-      application of real-time artificial intelligence (AI) at scale to advance scientific knowledge and accelerate discovery.
-    </blockquote>
-  </div>
-  <div style="flex-shrink: 0; padding: 10px; border: 3px solid #f9e40c; border-radius: 10px;">
-    <img src="https://zabaldwin.github.io/files/A3D3-design.png" 
-         alt="A3D3 Robot" 
-         style="width: 150px; height: auto; display: block;">
-  </div>
-</div>
-
-
-
+Lastly, I am an affiliate graduate trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute ([A3D3](https://a3d3.ai)
 
 Research Interests
 ======
@@ -79,9 +60,9 @@ Scientific Computing
 
 Increasing the speed and performance of computations, both theoretical and experimental, is critical to advancing nuclear and particle physics. To address this need, I have specialized in enhancing scientific computational research through methods such as High-Performance Computing and High-Throughput Computing. As part of this work, I was accepted to and invited to attend two specialized schools in 2022 and one in 2024, where I further developed my skills, presented my ongoing research, and collaborated with leading experts from diverse scientific disciplines worldwide.
 
-* #### Computational and Data Science Training for High Energy Physics &nbsp; | &nbsp; <em class="bold-italic">Princeton University</em>
-* #### High-Performace Computing School &nbsp; | &nbsp; <em class="bold-italic">Athens, Greece</em>
-* #### High-Throughput Computing School &nbsp; | &nbsp; <em class="bold-italic">University of Wisconsin</em>
+* ### Computational and Data Science Training for High Energy Physics &nbsp; | &nbsp; <em class="bold-italic">Princeton University</em>
+* ### High-Performace Computing School &nbsp; | &nbsp; <em class="bold-italic">Athens, Greece</em>
+* ### High-Throughput Computing School &nbsp; | &nbsp; <em class="bold-italic">University of Wisconsin</em>
 
 
 Media Coverage 
