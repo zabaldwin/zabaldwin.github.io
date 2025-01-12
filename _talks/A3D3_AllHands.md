@@ -1,7 +1,7 @@
 ---
 title: Real-time compression of CMS detector data with machine learning $ \| \textit{A3D3 All-Hands}$
 collection: talks
-type: "Poster"
+type: "Poster Session"
 permalink: /talks/A3D3_AllHands
 venue: "A3D3 All-Hands Meeting"
 date: 2024-10-14
