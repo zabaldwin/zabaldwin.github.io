@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <details style="margin-bottom: 30px;">
-<summary style="cursor: pointer; font-weight: bold; font-size: 1.5rem; display: flex; align-items: center;">
+<summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">
     Specialized Publications
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
@@ -27,7 +27,7 @@ author_profile: true
      </details>
 
   <details style="margin-bottom: 30px;">
-  <summary style="cursor: pointer; font-weight: bold; font-size: 1.5rem; display: flex; align-items: center;">
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">
     <span style="color: #0047ab;">Glu</span><span style="color: #ff0000;">eX </span> <span style="margin-left: 10px;">Associated Publications</span> 
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
@@ -94,7 +94,7 @@ author_profile: true
 
 
 <details style="margin-bottom: 30px;">
-  <summary style="cursor: pointer; font-weight: bold; font-size: 1.5rem; display: flex; align-items: center;">
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">
     <span style="color: #89cff0;">LHCb </span> <span style="margin-left: 10px;">Associated Publications</span>
   </summary>
   <div style="margin-left: 40px; margin-top: 20px;">
