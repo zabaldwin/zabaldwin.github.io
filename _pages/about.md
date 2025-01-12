@@ -39,6 +39,40 @@ Research Interests
 ======
 <hr>
 
+<ul class="research-list">
+  <li>Hadron Spectroscopy & Structure
+    <ul>
+      <li>Exotic Hadrons
+        <ul>
+          <li>Hybrid Mesons</li>
+          <li>Tetraquarks and Pentaquarks (Multi-Quark States)</li>
+          <li>Glueballs</li>
+        </ul>
+      </li>
+      <li>Rare Decays and CP Violation</li>
+        <ul>
+          <li>CKM unitarity triangle angle $\gamma$</li>
+          <li>$B^0_s-\bar{B^0_s}$</li>
+        </ul>
+      <li>Charm and Beauty Baryons</li>
+        <ul>
+          <li>$\Lambda_{c/b}$, $\Omega_{c/b}$, etc.</li>
+        </ul>
+      <li>Hadronic Structure
+        <ul>
+          <li>Parton Distribution Functions (PDFs)</li>
+          <li>Generalized Parton Distributions (GPDs)</li>
+          <li>Transverse Momentums Distributions (TMDs)</li>
+        </ul>
+      </li>
+      <li>Quarkonium Production</li>
+        <ul>
+          <li>$J/\psi$, $\Upsilon$, etc. </li>
+        </ul>
+    </ul>
+  </li>
+</ul>
+
 <hr>
 
 Increasing the speed and performance of computations, both theoretical and experimental, is critical to advancing nuclear and particle physics. To address this need, I have specialized in enhancing scientific computational research through methods such as High-Performance Computing and High-Throughput Computing. As part of this work, I was accepted to and invited to attend two specialized schools in 2022 and one in 2024, where I further developed my skills, presented my ongoing research, and collaborated with leading experts from diverse scientific disciplines worldwide.
