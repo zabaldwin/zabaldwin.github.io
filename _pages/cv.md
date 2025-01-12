@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "Education & Professional Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,6 +18,8 @@ redirect_from:
 <hr>
 * Visiting Student Researcher, The University of Glasgow - 2018
   * Advisor: Ken Livingston
+* Visiting Student Researcher, The Large Hadron Collider | Cern - 2018
+  * Advisors: Mikhail Mikhasenko, Sascha Stahl 
 <hr>
 <hr>
 Updated: August, 2024  
