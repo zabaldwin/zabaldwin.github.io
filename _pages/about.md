@@ -39,12 +39,12 @@ Media Coverage
   <div style="margin-left: 40px; margin-top: 20px;">
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin-top: 15px;">
-        <a href="https://osg-htc.org/spotlights/Lightning-Talks.html" target="_blank" style="text-decoration: none; font-size: 0.5rem; font-weight: bold; color: #007BFF;">
+        <a href="https://osg-htc.org/spotlights/Lightning-Talks.html" target="_blank" style="text-decoration: none; font-size: 1.0rem; font-weight: bold; color: #007BFF;">
           Open Science Grid
         </a>
       </li>
       <li style="margin-top: 15px;">
-        <a href="https://www.cmu.edu/mcs/news-events/2024/0731_baldwin-doe-award.html" target="_blank" style="text-decoration: none; font-size: 0.5rem; font-weight: bold; color: #007BFF;">
+        <a href="https://www.cmu.edu/mcs/news-events/2024/0731_baldwin-doe-award.html" target="_blank" style="text-decoration: none; font-size: 1.0rem; font-weight: bold; color: #007BFF;">
           Carnegie Mellon University - SCGSR
         </a>
       </li>
