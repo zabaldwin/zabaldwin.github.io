@@ -88,7 +88,7 @@ Media Coverage
 ======
 <hr>
 
-<details style="margin-bottom: 30px;">
+<details style="margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">
     Featured Articles
   </summary>
@@ -108,7 +108,7 @@ Media Coverage
   </div>
 </details>
 
-<details style="margin-bottom: 30px;">
+<details style="margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.0rem; display: flex; align-items: center;">
     Featured Videos
   </summary>
