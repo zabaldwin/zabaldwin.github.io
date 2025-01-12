@@ -53,7 +53,7 @@ redirect_from:
     </a>
   </p>
 </div>
-<p style="text-align: right; font-size: 0.86rem; margin-top: 5px;">
+<p style="text-align: right; font-size: 0.87rem; margin-top: 5px;">
   Updated: August, 2024
 </p>
 
