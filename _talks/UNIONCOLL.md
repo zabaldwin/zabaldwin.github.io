@@ -16,3 +16,6 @@ location: "New York"
     </a>
   </p>
 </div>
+<p style="text-align: right; font-size: 0.87rem; margin-top: 5px;">
+  Colloquium 
+</p>
