@@ -46,12 +46,14 @@ redirect_from:
 </ul>
 
 <hr>
-Updated: August, 2024
 <div style="display: flex; align-items: center; justify-content: center; border: 2px solid #f9e40c; padding: 10px; border-radius: 5px; width: fit-content; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
   <p style="margin: 0;">
     <a href="http://zabaldwin.github.io/files/Baldwin_CV_2024update.pdf" style="text-decoration: none; font-weight: bold;">
       Curriculum Vitae
     </a>
+  </p>
+  <p style="margin: 0; font-size: 0.9rem; font-weight: bold;">
+    Updated: August, 2024
   </p>
 </div>
 
