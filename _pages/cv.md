@@ -7,29 +7,55 @@ redirect_from:
   - /resume
 ---
 
-* Ph.D in Nuclear and Particle Physics, Carnegie Mellon University - 2026 (expected)  
-  * Advisor: Curtis Meyer  
-    * Graduate Research Associate
-    * Office of Science Graduate Student Research (SCGSR) Fellow
-* Honors B.S. in Physics and Mathematics, The College of William and Mary - 2019  
-  * Advisor: Justin Stevens  
-    * William and Mary Honors Fellow 
-    * Wren Scholar 
+<ul>
+  <li>
+    <strong>Ph.D in Nuclear and Particle Physics, Carnegie Mellon University - 2026 (expected)</strong>
+    <ul>
+      <li>Advisor: Curtis Meyer</li>
+      <ul>
+        <li>Graduate Research Associate</li>
+        <li>Office of Science Graduate Student Research (SCGSR) Fellow</li>
+      </ul>
+    </ul>
+  </li>
+  <li>
+    <strong>Honors B.S. in Physics and Mathematics, The College of William and Mary - 2019</strong>
+    <ul>
+      <li>Advisor: Justin Stevens</li>
+      <ul>
+        <li>William and Mary Honors Fellow</li>
+        <li>Wren Scholar</li>
+      </ul>
+    </ul>
+  </li>
+</ul>
 <hr>
-* Visiting Student Researcher, The University of Glasgow - 2018
-  * Advisor: Ken Livingston
-* Visiting Student Researcher, The Large Hadron Collider | Cern - 2018
-  * Advisors: Mikhail Mikhasenko, Sascha Stahl 
-<hr>
-<hr>
-Updated: August, 2024  
+<ul>
+  <li>
+    <strong>Visiting Student Researcher, The Large Hadron Collider | CERN - 2024</strong>
+    <ul>
+      <li>Advisors: Mikhail Mikhasenko, Sascha Stahl</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Visiting Student Researcher, The University of Glasgow - 2018</strong>
+    <ul>
+      <li>Advisor: Ken Livingston</li>
+    </ul>
+  </li>
+</ul>
 
-<p align="center">
-  <font size="5">
-  <a href="http://zabaldwin.github.io/files/Baldwin_CV_2024update.pdf">Curriculum Vitae</a>
-  </font>
-</p>
+<hr>
+Updated: August, 2024
 
+<div style="border: 2px solid #f9e40c; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <p style="margin: 0; font-size: 1rem; font-weight: bold;"></p>
+  <p style="margin: 10px 0 0;">
+    <a href="http://zabaldwin.github.io/files/Baldwin_CV_2024update.pdf" style="text-decoration: none; font-size: 1.5rem; font-weight: bold;">
+      Curriculum Vitae
+    </a>
+  </p>
+</div>
 
 
 
