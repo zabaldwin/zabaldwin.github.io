@@ -66,7 +66,7 @@ author_profile: true
           </ul>
         </p>
         <p style="margin-top: 20px; font-size: 0.85rem;">
-          <strong>Measurement of Spin Density Matrix Elements in &lambda;(1520) Photoproduction at 8.2 GeV to 8.8 GeV</strong><br>
+          <strong>Measurement of Spin Density Matrix Elements in &Lambda;(1520) Photoproduction at 8.2 GeV to 8.8 GeV</strong><br>
           Published in <em>Physical Review C</em> -- March, 2022<br>
           <ul style="font-size: inherit; margin-top: 0; margin-bottom: 0;">
             <li>DOI: <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.035201">https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.035201</a></li>
