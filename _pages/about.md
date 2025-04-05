@@ -73,8 +73,9 @@ Research Interests
           <li>Glueballs</li>
         </ul>
       </li>
-      <li>Rare Decays and CP Violation</li>
+      <li>Rare Decays, Mixing, and CP Violation</li>
         <ul>
+          <li>Charmless $B$ decays</li>
           <li>CKM unitarity triangle angle $\gamma$</li>
           <li>$B^0_s-\bar{B^0_s}$</li>
         </ul>
