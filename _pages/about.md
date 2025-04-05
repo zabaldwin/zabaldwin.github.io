@@ -16,44 +16,6 @@ In collaboration with Professor Mikhail Mikhasenko and the Ruhr-Universität Boc
 
 Lastly, I am an affiliate graduate trainee leader for the Accelerated AI Algorithms for Data-Driven Discovery Institute ([A3D3](https://a3d3.ai)).
 
-Research Interests
-======
-<hr>
-
-<ul class="research-list">
-  <li>Hadron Spectroscopy & Structure
-    <ul>
-      <li>Exotic Hadrons
-        <ul>
-          <li>Hybrid Mesons</li>
-          <li>Tetraquarks and Pentaquarks (Multi-Quark States)</li>
-          <li>Glueballs</li>
-        </ul>
-      </li>
-      <li>Rare Decays and CP Violation</li>
-        <ul>
-          <li>CKM unitarity triangle angle $\gamma$</li>
-          <li>$B^0_s-\bar{B^0_s}$</li>
-        </ul>
-      <li>Charm and Beauty Baryons</li>
-        <ul>
-          <li>$\Lambda_{c/b}$, $\Omega_{c/b}$, etc.</li>
-        </ul>
-      <li>Hadronic Structure
-        <ul>
-          <li>Parton Distribution Functions (PDFs)</li>
-          <li>Generalized Parton Distributions (GPDs)</li>
-          <li>Transverse Momentum Distributions (TMDs)</li>
-        </ul>
-      </li>
-      <li>Quarkonium Production</li>
-        <ul>
-          <li>$J/\psi$, $\Upsilon$, etc. </li>
-        </ul>
-    </ul>
-  </li>
-</ul>
-
 Scientific Computing
 ======
 <hr>
@@ -96,6 +58,44 @@ One of the fundamental challenges in nuclear and particle physics is understandi
     </li>
   </ul>
 </div>
+
+Research Interests
+======
+<hr>
+
+<ul class="research-list">
+  <li>Hadron Spectroscopy & Structure
+    <ul>
+      <li>Exotic Hadrons
+        <ul>
+          <li>Hybrid Mesons</li>
+          <li>Tetraquarks and Pentaquarks (Multi-Quark States)</li>
+          <li>Glueballs</li>
+        </ul>
+      </li>
+      <li>Rare Decays and CP Violation</li>
+        <ul>
+          <li>CKM unitarity triangle angle $\gamma$</li>
+          <li>$B^0_s-\bar{B^0_s}$</li>
+        </ul>
+      <li>Charm and Beauty Baryons</li>
+        <ul>
+          <li>$\Lambda_{c/b}$, $\Omega_{c/b}$, etc.</li>
+        </ul>
+      <li>Hadronic Structure
+        <ul>
+          <li>Parton Distribution Functions (PDFs)</li>
+          <li>Generalized Parton Distributions (GPDs)</li>
+          <li>Transverse Momentum Distributions (TMDs)</li>
+        </ul>
+      </li>
+      <li>Quarkonium Production</li>
+        <ul>
+          <li>$J/\psi$, $\Upsilon$, etc. </li>
+        </ul>
+    </ul>
+  </li>
+</ul>
 
 Media Coverage 
 ======
