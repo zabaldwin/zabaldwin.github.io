@@ -72,7 +72,7 @@ var addressPoints = [
   [
     "Pasadena, California | California Institute of Technology",
     34.1477, 
-    118.1443
+    -118.1443
   ],
   [
     "Marseille, France",
