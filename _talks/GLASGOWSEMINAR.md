@@ -5,5 +5,4 @@ type: "Glasgow University"
 permalink: /talks/GLASGOWSEMINAR
 venue: "Glasgow Nuclear Physics Group"
 date: 2025-4-7
-location: ""
 ---
