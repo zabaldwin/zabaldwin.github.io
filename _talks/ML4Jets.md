@@ -1,7 +1,7 @@
 ---
 title: Real-time compression of CMS detector data with machine learning $ \| \textit{ML4Jets}$
 collection: talks
-type: "Poster Session"
+type: "Conference Talk"
 permalink: /talks/ML4Jets
 venue: "ML4Jets Conference"
 date: 2025-10-18
