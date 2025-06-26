@@ -30,11 +30,6 @@ var addressPoints = [
     -76.285873
   ],
   [
-    "Columbus, Ohio",
-    39.983334,
-    -82.983330
-  ],
-  [
     "Madison, Wisconsin | University of Wisconsin",
     43.073051,
     -89.401230
@@ -73,6 +68,21 @@ var addressPoints = [
     "Stony Brook, New York | Stony Brook University",
     40.912567,
     -73.123239
+  ],
+  [
+    "Pasadena, California | California Institute of Technology",
+    34.1477, 
+    118.1443
+  ],
+  [
+    "Marseille, France",
+    43.3026, 
+    5.3691
+  ],
+  [
+    "Columbus, Ohio | The Ohio State Universrity",
+    39.983334,
+    -82.983330
   ],
   //[
   //  "Cambridge, Massachusetts",
