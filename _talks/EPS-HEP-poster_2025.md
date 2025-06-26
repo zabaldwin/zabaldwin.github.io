@@ -3,8 +3,8 @@ title: Improved Probabilistic Event Weighting via Covariance-Corrected Q-Factors
 collection: talks
 type: "Poster session"
 permalink: /talks/EPS-HEPposter_2025
-venue: "26th International Conference on Computing in High Energy & Nuclear Physics"
-date: 2025-10-9
+venue: "European Physical Society Conference on High Energy Physics"
+date: 2025-7-9
 location: "Marseille, France"
 ---
 
