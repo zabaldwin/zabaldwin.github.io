@@ -1,5 +1,5 @@
 ---
-title:  $ \| \textit{EPS-HEP}$
+title: Exploring Photoproduced $\eta{^{(\prime)}}\pi^0$ Systems in the Search for Exotic Hadrons at GlueX $ \| \textit{EPS-HEP}$
 collection: talks
 type: "Conference Talk"
 permalink: /talks/EPS-HEP_2025
